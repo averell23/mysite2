@@ -40,6 +40,11 @@
     </target>
 
     <target name="recipes">
+    	<xslt basedir="recipes"
+	      destdir="../content/text"
+	      extension=".shtml"
+	      style="transformations/recipes.xsl"
+	/>
     </target>
 
     <target name="xslt-transform" depends="misc-lists,travellogs,recipes" />

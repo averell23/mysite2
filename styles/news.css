@@ -1,23 +1,17 @@
-/* Additional styles for the news pages */
 .commentbody {
-    margin-left: 5ex;
-    padding-left: 2ex;
-    padding-right: 5ex;
+    border-top-width: 1ex;
+    border-top-style: solid;
+    border-top-color: #FBF297;
+    padding-left: 5ex;
+    text-align: justify;
+    margin-bottom: 2ex;
+    margin-top: 2ex;
     padding-top: 1ex;
-    padding-bottom: 2ex;
-    text-align: justify:
-    margin-bottom: 1ex;
-    border-top: 1ex solid #FBF297;
 }
 .comment-footer {
     text-align: right;
-    font-family: sans-serif;
-    font-size: small;
-    font-weight: bold;
-    padding-right: 2ex;
-    padding-bottom: 2ex;
 }
+
 .entry-para {
-    padding-top: 2ex;
-    width: 100%;
+    margin-bottom: 2ex;
 }

@@ -1,6 +1,8 @@
 <$MTInclude module="cgiheader"$>
 <div id="mainbody">
 <$MTInclude module="comments"$>
+<MTEntryIfAllowComments>
 <$MTInclude module="commentform"$>
+</MTEntryIfAllowComments>
 </div>
 <$MTInclude module="pagefooter"$>

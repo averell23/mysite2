@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Original Idar-Obersteiner Spiessbraten</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit>kg</unit></amt>
+        <item>Schweinekamm, ausgebeint</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit></unit></amt>
+        <item>Pfeffer</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit></unit></amt>
+        <item>Salz</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Zwiebeln</item></ing>
+    </ingredients>
+    <directions>
+      <step>Den Schweinkamm so zuschneiden, dass man ihn f&#252;llen kann.</step.>
+      <step>Das Fleisch mit Pfeffer und Salz w&#252;rzen, die Zwiebeln hacken und den Schweinekamm damit f&#252;llen. Danach das Ganze mit einer Kordel zusammenbinden und ungef&#228;hr 24 Stunden ziehen lassen.</step>
+      <step>Den Braten auf einen Spiess aufstecken, und mit 2 Gabeln befestigen. Auf einem Schwenkgrill mit (Buchen-)holzfeuer schwenken bis er knusprig und braun ist.</step>
+	      <step>Alternativ k&#246;nnen die Fleischst&#252;cke auch lediglich mit den Zwiebeln eingelegt und dann ohne diese gebraten werden.</step>
+	    </directions></recipe></recipeml>
