@@ -29,7 +29,7 @@
       <ing>
         <amt>
           <qty>250.0</qty>
-          <unit>gram</unit></amt>
+          <unit>gramm</unit></amt>
         <item>frische Champignon, Menge nach Bedarf</item></ing>
       <ing>
         <amt>
@@ -39,9 +39,11 @@
       <ing>
         <amt>
           <qty>80.0</qty>
-          <unit>gram</unit></amt>
+          <unit>gramm</unit></amt>
         <item>rote Currypaste</item></ing></ingredients>
     <directions>
-      <step>Das Fleisch in Fisch-/Sojasauce (was auch immer ;-) marinieren. Dann in einer Pfanne (was auch immer...) mit etwas Öl anbraten. Die Currypaste dazu und mit etwas Wasser auflösen. Dann nach und nach die Kokosmilch dazugeben und einkochen lassen. Später kommen auch die Champignons und kurz vor Schluss die Cashews dazu. 
-
+      <step>Das Fleisch in Fisch-/Sojasauce (was auch immer ;-) marinieren. Dann in einer Pfanne (was auch immer...) mit etwas Öl anbraten.</step> 
+      <step>Die Currypaste dazu und mit etwas Wasser auflösen. Dann nach und nach die Kokosmilch dazugeben und einkochen lassen.</step> 
+      <step>Später kommen auch die Champignons und kurz vor Schluss die Cashews dazu.</step>
+      <step>
 Das Zeug ist fertig wenn die Sauce dick wird und das Fett aus der Kokosmilch auskocht.</step></directions></recipe></recipeml>

@@ -20,12 +20,12 @@
         <amt>
           <qty>0.0</qty>
           <unit> </unit></amt>
-        <item>Zwiebel</item></ing>
+        <item>Zwiebeln</item></ing>
       <ing>
         <amt>
           <qty>0.0</qty>
           <unit> </unit></amt>
-        <item>sherry</item></ing>
+        <item>Sherry</item></ing>
       <ing>
         <amt>
           <qty>0.0</qty>
@@ -52,4 +52,6 @@
           <unit> </unit></amt>
         <item>Sojasauce</item></ing></ingredients>
     <directions>
-      <step>Bohnen zuerst kochen und den Reis aufsetzen. Das Fleisch anbraten und wieder aus der Pfanne nehmen. Die Zwiebeln anbraten, das Fleisch und die Bohnen dazu und mit Gewürzen, Sojasauce und Sherry abschmecken. Mit dem Reis servieren.</step></directions></recipe></recipeml>
+      <step>Zuerst die Bohnen kochen und den Reis aufsetzen.</step>
+      <step>Das Fleisch anbraten und wieder aus der Pfanne nehmen.</step> 
+      <step>Die Zwiebeln anbraten, das Fleisch und die Bohnen dazu und mit Gewürzen, Sojasauce und Sherry abschmecken. Mit dem Reis servieren.</step></directions></recipe></recipeml>

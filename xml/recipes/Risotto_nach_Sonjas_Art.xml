@@ -15,12 +15,12 @@
         <amt>
           <qty>2.0</qty>
           <unit> </unit></amt>
-        <item>rote paprika, grob gehackt</item></ing>
+        <item>Rote Paprika, grob gehackt</item></ing>
       <ing>
         <amt>
           <qty>6.0</qty>
-          <unit>Tasse</unit></amt>
-        <item>Weisswein or Brühe, ungefähr</item></ing>
+          <unit>Tassen</unit></amt>
+        <item>Weisswein oder Brühe (ungefähr)</item></ing>
       <ing>
         <amt>
           <qty>2.0</qty>
@@ -34,7 +34,7 @@
       <ing>
         <amt>
           <qty>400.0</qty>
-          <unit>gram</unit></amt>
+          <unit>gramm</unit></amt>
         <item>Hackfleisch</item></ing>
       <ing>
         <amt>
@@ -47,10 +47,9 @@
           <unit> </unit></amt>
         <item>EL parmesan</item></ing></ingredients>
     <directions>
-      <step>Zwiebeln anbraten, dann die Paprika (oder anderes Gemüse) dazu und weiter anbraten. Mit den Kräutern würzen, den Reis dazu und auch diesen kurz mit anbraten.  Dann die Flüssigkeit dazu und auf kleiner Flamme langsam ca. 20 Minuten einkochen lassen.
-
-Hackfleisch braten und mit Pfeffer, Salz und Paprikagewürz o.ä. würzen. 
-
-Sobald die Flüssigkeit verkocht und der Reis weich ist das Hackfleisch, Butter und Parmesan untermengen.
+      <step>Zwiebeln anbraten, dann die Paprika (oder anderes Gemüse) dazu und weiter anbraten.</step> 
+      <step>Mit den Kräutern würzen, den Reis dazu und auch diesen kurz mit anbraten.  Dann die Flüssigkeit dazu und auf kleiner Flamme langsam ca. 20 Minuten einkochen lassen.</step>
+      <step>Hackfleisch braten und mit Pfeffer, Salz und Paprikagewürz o.ä. würzen.</step>
+      <step>Sobald die Flüssigkeit verkocht und der Reis weich ist das Hackfleisch, Butter und Parmesan untermengen.
 
 (4 Personen)</step></directions></recipe></recipeml>

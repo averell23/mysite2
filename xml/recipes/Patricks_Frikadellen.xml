@@ -9,7 +9,7 @@
       <ing>
         <amt>
           <qty>500.0</qty>
-          <unit>gram</unit></amt>
+          <unit>gramm</unit></amt>
         <item>Hackfleisch, gemischt</item></ing>
       <ing>
         <amt>
@@ -37,4 +37,5 @@
           <unit> </unit></amt>
         <item>Kräuter, alles was da ist</item></ing></ingredients>
     <directions>
-      <step>Das Brötchen einweichen und gut ausdrücken, dann alle Zutaten zusammenmischen, durchkneten und abschmecken. Zu Frikadellen formen und braten. (Patricks Geheimzutat: Ein Stück Schafskäse in die Mitte)</step></directions></recipe></recipeml>
+      <step>Das Brötchen einweichen und gut ausdrücken, dann alle Zutaten zusammenmischen, durchkneten und abschmecken.</step> 
+      <step>Zu Frikadellen formen und braten. (Patricks Geheimzutat: Ein Stück Schafskäse in die Mitte)</step></directions></recipe></recipeml>

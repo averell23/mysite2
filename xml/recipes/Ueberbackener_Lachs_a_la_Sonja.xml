@@ -9,7 +9,7 @@
       <ing>
         <amt>
           <qty>500.0</qty>
-          <unit>gram</unit></amt>
+          <unit>gramm</unit></amt>
         <item>Lachs</item></ing>
       <ing>
         <amt>
@@ -42,4 +42,5 @@
           <unit> </unit></amt>
         <item>Salz</item></ing></ingredients>
     <directions>
-      <step>Lachs in eine Auflaufform legen, die Schalotten und Tomaten darauf verteilen. Nach Geschmack würzen und mit der Sahne übergiessen. Bei 180 Grad ca. 20-30 Minuten überbacken.</step></directions></recipe></recipeml>
+      <step>Lachs in eine Auflaufform legen, die Schalotten und Tomaten darauf verteilen. Nach Geschmack würzen und mit der Sahne übergiessen.</step> 
+      <step>Bei 180 Grad ca. 20-30 Minuten überbacken.</step></directions></recipe></recipeml>

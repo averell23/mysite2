@@ -14,7 +14,7 @@
       <ing>
         <amt>
           <qty>250.0</qty>
-          <unit>gram</unit></amt>
+          <unit>gramm</unit></amt>
         <item>Mehl</item></ing>
       <ing>
         <amt>
@@ -57,8 +57,7 @@
           <unit> </unit></amt>
         <item>diverse Zutaten für den Belag</item></ing></ingredients>
     <directions>
-      <step>Hefe mit dem laufwarmen Wasser verrühren und mit Mehl, Salz und Öl in einer Küchenmaschine zusammenkneten. Danach eine Weile (ca. 40 min) im Kühlschrank gehen lassen.
-
-Tomatenpürre mit Oregano und Thymian vermischen. Den Teig ausrollen und mit dem Tomatenpürre bestreichen und nach Wunsch belegen und würzen. Auf den Belag Käse und etwas Öl. ca. 15-20 Minuten bei 180 Grad backen.
-
-Für Pizza Calzone: ca. 100 g rohen Schinken anbraten, 150g und 150g Mozarella zerkleinern und mit 2 Eiern und dem Schinken mischen. 150g Parmesan dazugeben und mit Salz, Pfeffer und Oregano abschmecken. Den Pizzateig mit der Füllung zusammenklappen, aussen mit Eigelb und Olivenöl bestreichen und backen.</step></directions></recipe></recipeml>
+      <step>Hefe mit dem laufwarmen Wasser verrühren und mit Mehl, Salz und Öl in einer Küchenmaschine zusammenkneten. Danach eine Weile (ca. 40 min) im Kühlschrank gehen lassen.</step>
+      <step>Tomatenpüree mit Oregano und Thymian vermischen. Den Teig ausrollen und mit dem Tomatenpürre bestreichen und nach Wunsch belegen und würzen.</step> 
+      <step>Auf den Belag Käse und etwas Öl. ca. 15-20 Minuten bei 180 Grad backen.</step>
+      <step>Für Pizza Calzone: ca. 100 g rohen Schinken anbraten, 150g und 150g Mozarella zerkleinern und mit 2 Eiern und dem Schinken mischen. 150g Parmesan dazugeben und mit Salz, Pfeffer und Oregano abschmecken. Den Pizzateig mit der Füllung zusammenklappen, aussen mit Eigelb und Olivenöl bestreichen und backen.</step></directions></recipe></recipeml>

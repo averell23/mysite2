@@ -9,7 +9,7 @@
       <ing>
         <amt>
           <qty>400.0</qty>
-          <unit>gram</unit></amt>
+          <unit>gramm</unit></amt>
         <item>Gnocchi</item></ing>
       <ing>
         <amt>
@@ -62,8 +62,9 @@
           <unit> </unit></amt>
         <item>Brühe (optinal zum Würzen)</item></ing></ingredients>
     <directions>
-      <step>Tomatensauce zubereiten: Zwiebeln und Knoblauch (Fleisch?) anbraten mit einem Schuss Sherry ablöschen und die Tomaten dazu. Würzen nach Geschmack und etwas köcheln lassen. Notfalls mit etwas Mehl andicken...
-
+      <step>Tomatensauce zubereiten: Zwiebeln und Knoblauch (Fleisch?) anbraten mit einem Schuss Sherry ablöschen und die Tomaten dazu.</step> 
+      <step>Würzen nach Geschmack und etwas köcheln lassen. Notfalls mit etwas Mehl andicken...</step>
+      <step>
 Gnocchi nach Anweisung kochen (nur ca. 1-2 Minuten).
 
 (4 Personen ?)</step></directions></recipe></recipeml>
