@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <diary>
-    <entry date="10.02.2002">
+    <entry date="10.02.2002" image="scotland_castle" alt="Edingburg Castle">
         Took off from Lancaster at about 10 o' clock towards the Lake District.
         Went over the pass to Ullswater, it's raining so we just take a quick
         stroll at the pass and drive on. 
         <p>
         Our first destination is Jedburg, but the famous cloister ruin's have
-        a &pound;2 price tag, so we move on (had we known the prices for other
+        a &#263;2 price tag, so we move on (had we known the prices for other
         places, we might as well have seen it) to Edingburg. The hostel there
         is o.k., and we spend an hour in an rather deserted pub nearby.
         </p>
@@ -29,7 +29,7 @@
         holiday is in vain. The weather got rainy again after a sunny morning.
         </p>
     </entry>
-    <entry date="12.02.2002">
+    <entry date="12.02.2002" image="scotland_house" alt="A deserted house in the highlands">
         After an unsuccessful attempt to visit the Wallace Monument we drive
         up into the highlands and to Inverness. The landscape is getting quite
         nice now, even in the continuing rain. We take a short walk to a forest,

@@ -12,19 +12,24 @@
     black2.src = "pictures/news_black.png";
 
     light3 = new Image();
-    light3.src = "pictures/links_grey.png";
+    light2.src = "pictures/text_grey.png";
     black3 = new Image();
-    black3.src = "pictures/links_black.png";
+    black3.src = "pictures/text_black.png";
 
     light4 = new Image();
-    light4.src = "pictures/files_grey.png";
+    light4.src = "pictures/links_grey.png";
     black4 = new Image();
-    black4.src = "pictures/files_black.png";
-      
+    black4.src = "pictures/links_black.png";
+
     light5 = new Image();
-    light5.src = "pictures/info_grey.png";
+    light5.src = "pictures/files_grey.png";
     black5 = new Image();
-    black5.src = "pictures/info_black.png";
+    black5.src = "pictures/files_black.png";
+      
+    light6 = new Image();
+    light6.src = "pictures/info_grey.png";
+    black6 = new Image();
+    black6.src = "pictures/info_black.png";
       
     function picChange(number, object) {
      window.document.images[number].src = object.src;
