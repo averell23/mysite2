@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bratkartoffeln Sonja</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>500.0</qty>
+          <unit>gram</unit></amt>
+        <item>Kartoffel, kalte Pellkartoffeln in Scheiben geschnitten</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Speck, gewürfelt</item></ing>
+      <ing>
+        <amt>
+          <qty>4.0</qty>
+          <unit> </unit></amt>
+        <item>Ei</item></ing>
+      <ing>
+        <amt>
+          <qty>400.0</qty>
+          <unit>gram</unit></amt>
+        <item>Fleisch, optional</item></ing>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit> </unit></amt>
+        <item>Zwiebel, geschält und gewürfelt</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Pfeffer</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Salz</item></ing></ingredients>
+    <directions>
+      <step>Zwiebeln und Speck anbraten. Dann die Kartoffeln dazu und anbraten bis die Kartoffeln leicht braun werden. Nach Bedarf mit Pfeffer uns Salz würzen. Das Ei dazu und weiterbraten bis das Ei gestockt ist.
+
+Dazu kann man das Fleisch anbraten.
+
+(4 Personen)</step></directions></recipe></recipeml>

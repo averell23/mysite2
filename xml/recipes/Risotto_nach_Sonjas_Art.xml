@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Risotto nach Sonjas Art</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit>Tasse</unit></amt>
+        <item>Risottoreis</item></ing>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit> </unit></amt>
+        <item>rote paprika, grob gehackt</item></ing>
+      <ing>
+        <amt>
+          <qty>6.0</qty>
+          <unit>Tasse</unit></amt>
+        <item>Weisswein or Brühe, ungefähr</item></ing>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit> </unit></amt>
+        <item>Zwiebel, gewürfelt</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Kräuter der Provence or Thymian or oregano o.ä.</item></ing>
+      <ing>
+        <amt>
+          <qty>400.0</qty>
+          <unit>gram</unit></amt>
+        <item>Hackfleisch</item></ing>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit> </unit></amt>
+        <item>EL butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit> </unit></amt>
+        <item>EL parmesan</item></ing></ingredients>
+    <directions>
+      <step>Zwiebeln anbraten, dann die Paprika (oder anderes Gemüse) dazu und weiter anbraten. Mit den Kräutern würzen, den Reis dazu und auch diesen kurz mit anbraten.  Dann die Flüssigkeit dazu und auf kleiner Flamme langsam ca. 20 Minuten einkochen lassen.
+
+Hackfleisch braten und mit Pfeffer, Salz und Paprikagewürz o.ä. würzen. 
+
+Sobald die Flüssigkeit verkocht und der Reis weich ist das Hackfleisch, Butter und Parmesan untermengen.
+
+(4 Personen)</step></directions></recipe></recipeml>

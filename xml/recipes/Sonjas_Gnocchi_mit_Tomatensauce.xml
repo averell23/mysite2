@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Sonjas Gnocchi mit Tomatensauce</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>400.0</qty>
+          <unit>gram</unit></amt>
+        <item>Gnocchi</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>3-4 Zwiebel, gewürfelt</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Knoblauch, gehackt</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Paprikagewürz (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>sherry (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit>Dose</unit></amt>
+        <item>Tomate, geschält</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Fleisch o.ä. nach Bedarf</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Kräuter</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Pfeffer</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Salz</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Brühe (optinal zum Würzen)</item></ing></ingredients>
+    <directions>
+      <step>Tomatensauce zubereiten: Zwiebeln und Knoblauch (Fleisch?) anbraten mit einem Schuss Sherry ablöschen und die Tomaten dazu. Würzen nach Geschmack und etwas köcheln lassen. Notfalls mit etwas Mehl andicken...
+
+Gnocchi nach Anweisung kochen (nur ca. 1-2 Minuten).
+
+(4 Personen ?)</step></directions></recipe></recipeml>

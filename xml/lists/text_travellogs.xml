@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : text_travellogs.xml
+    Created on : 12. Oktober 2003, 11:34
+    Author     : daniel
+    Description:
+        Purpose of the document follows.
+-->
+<linklist>
+    <group name="Travel Logs">
+        <link target="text.shtml?usa2000">
+            <name>West of the USA (2000)</name>
+            <description>
+                A 4-week trip to New York and some of the western states of the USA,
+                with Micha, Psycho and Uli.
+            </description>
+        </link>
+        <link target="text.shtml?taiwan2001">
+            <name>Taiwan (2001)</name>
+            <description>
+                A 2-week visit to my friend Anne, who was a lecturer in Taiwan
+                at that time.
+            </description>
+        </link>
+        <link target="text.shtml?scotland2002">
+            <name>Scotland (2002)</name>
+            <description>
+                A 10-day trip through Scotland with David and Psycho.
+            </description>
+        </link>
+    </group>
+</linklist>

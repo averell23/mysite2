@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Königsberger Klopse a la Sonja</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>500.0</qty>
+          <unit>gram</unit></amt>
+        <item>Hackfleisch</item></ing>
+      <ing>
+        <amt>
+          <qty>300.0</qty>
+          <unit>milliliter</unit></amt>
+        <item>Milch, ungefähr</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Reis</item></ing>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit> </unit></amt>
+        <item>Ei</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>1-2 Lorbeerblätter</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Thymian, Petersiele oder andere Kräuter</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Semmelbrösel</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Pfeffer</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Salz</item></ing>
+      <ing>
+        <amt>
+          <qty>2.0</qty>
+          <unit> </unit></amt>
+        <item>EL butter</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Mehl</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Kapern</item></ing></ingredients>
+    <directions>
+      <step>Reise kochen. 
+
+Hackfleisch mit Eiern, Semmelbröseln, Pfeffer, Salz und Kräutern nach Wunsch vermengen. Aus der Masse Klopse formen. Brühe aufsetzen, Loorbeerblätter dazu und die Klopse darin ca. 5-10 min kochen.
+
+Für die Sauce: Butter schmelzen und eine entsprechende Menge Mehl darin anschwitzen. Mit dem Schneebesen die Mlich darunterrühren, andicken lassen und mit Brühe von den Klopsen auf die gewünschte Konsistenz bringen. Zum Schluss die Kapern dazu geben.
+
+(4 Personen)</step></directions></recipe></recipeml>

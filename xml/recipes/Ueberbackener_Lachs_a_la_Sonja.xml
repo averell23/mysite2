@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Überbackener Lachs a la Sonja</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>500.0</qty>
+          <unit>gram</unit></amt>
+        <item>Lachs</item></ing>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit>Dose</unit></amt>
+        <item>Tomate</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Schalotten oder Zwiebel, fein gewürfelt</item></ing>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit> </unit></amt>
+        <item>Becher Sahne</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Kräuter</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Pfeffer</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Salz</item></ing></ingredients>
+    <directions>
+      <step>Lachs in eine Auflaufform legen, die Schalotten und Tomaten darauf verteilen. Nach Geschmack würzen und mit der Sahne übergiessen. Bei 180 Grad ca. 20-30 Minuten überbacken.</step></directions></recipe></recipeml>

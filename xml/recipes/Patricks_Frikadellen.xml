@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Patricks Frikadellen</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>500.0</qty>
+          <unit>gram</unit></amt>
+        <item>Hackfleisch, gemischt</item></ing>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit> </unit></amt>
+        <item>Brötchen</item></ing>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit> </unit></amt>
+        <item>Zwiebel, gehackt</item></ing>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit> </unit></amt>
+        <item>Ei</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Senf</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Kräuter, alles was da ist</item></ing></ingredients>
+    <directions>
+      <step>Das Brötchen einweichen und gut ausdrücken, dann alle Zutaten zusammenmischen, durchkneten und abschmecken. Zu Frikadellen formen und braten. (Patricks Geheimzutat: Ein Stück Schafskäse in die Mitte)</step></directions></recipe></recipeml>

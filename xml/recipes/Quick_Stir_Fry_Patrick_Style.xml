@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Quick Stir Fry Patrick Style</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Bohnen</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Fleisch, Stir-Fry-geeignet</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Zwiebel</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Ingwer</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Chilipulver</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Chinagewürz</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Reis</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Sojasauce</item></ing></ingredients>
+    <directions>
+      <step>Bohnen zuerst kochen und den Reis aufsetzen. Das Fleisch anbraten und wieder aus der Pfanne nehmen. Die Zwiebeln anbraten, das Fleisch und die Bohnen dazu und mit Gewürzen, Sojasauce und Sherry abschmecken. Mit dem Reis servieren.</step></directions></recipe></recipeml>

@@ -1,6 +1,5 @@
 <div id="submenu">
     <a href="me.shtml?portrait">[portrait]</a>
-    <a href="me.shtml?usa2000">[usa 2000]</a>
-    <a href="me.shtml?taiwan2001">[taiwan 2001]</a>
-    <a href="me.shtml?scotland2002">[scotland 2002]</a>
+    <a href="me.shtml?about">[about]</a>
+    <a href="me.shtml?friends">[friends]</a>
 </div>

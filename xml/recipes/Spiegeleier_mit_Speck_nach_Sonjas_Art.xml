@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Spiegeleier mit Speck nach Sonjas Art</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3.0</qty>
+          <unit> </unit></amt>
+        <item>Ei</item></ing>
+      <ing>
+        <amt>
+          <qty>4.0</qty>
+          <unit>Scheibe</unit></amt>
+        <item>Speck</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Paprikagewürz</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>tabasco</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Worcestersauce</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Pfeffer</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Salz</item></ing></ingredients>
+    <directions>
+      <step>Speck anbraten, Eier dazu. Ja nach Bedarf mit den genannten oder anderen Gewürzen kräftig würzen. Dazu Brot oder Toast.
+
+(1 Person)</step></directions></recipe></recipeml>

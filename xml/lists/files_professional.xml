@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : files.xml
+    Created on : 27. August 2003, 21:41
+    Author     : daniel
+    Description:
+        Links to downloadable files
+-->
+
+<downloadlist>
+
+<item>
+    <title>DoorStep - A system for visitor Awareness</title>
+    <description>
+    Minor thesis project at the ubicomp group of the Lancaster University, UK,
+    together with the Telecooperation Office (TeCO) in Karlsruhe.
+    </description>
+    <link target="downloads/studienarbeit.pdf">PDF</link>
+    <link target="downloads/gilbert.zip">Software</link>
+    <link target="downloads/studienarbeit.ppt">OpenOffice slides</link>
+</item>
+
+<item>
+    <title>Concepts for efficient access on Distributed Shared Memory Systems</title>
+    <description>
+    Paper for a seminar at the Systems Group of the Karlsruhe University. 
+    </description>
+    <link target="downloads/hotsystems.ps">PostScript</link>
+    <link target="downloads/hotsystems.ppt">PowerPoint slides</link>
+</item>
+
+<item>
+    <title>Erbrecht und Unternehmensnachfolge</title>
+    <description>
+    Ausarbeitung zu einem Seminar am Zentrum f&#252;r angewandte 
+    Rechtswissenschaften der Universit&#228;t Karlsruhe.
+    </description>
+    <link target="downloads/erbrecht.ps">PostScript</link>
+    <link target="downloads/erbrecht.pdf">PDF</link>
+    <link target="downloads/erbrecht.ppt">PowerPoint slides</link>
+</item>
+
+<item>
+    <title>Telematik on a Spickzettel</title>
+    <description>
+    Zusammenschrieb von pr&#252;;fungsrelevantem Stoff f&#252;r meine 
+    Vertiefungsfachpr&#252;fung in Telematik an der Universit&#252;t Karlsruhe.
+    </description>
+    <link target="downloads/telematik.ps">PostScript</link>
+    <link target="downloads/telematik.pdf">PDF</link>
+    <link target="downloads/telematik.tex">LaTex sources</link>
+</item>
+
+</downloadlist>

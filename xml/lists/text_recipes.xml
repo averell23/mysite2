@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : text_recipes.xml
+    Created on : 12. Oktober 2003, 11:41
+    Author     : daniel
+    Description:
+        Purpose of the document follows.
+-->
+
+<linklist>
+    <group name="Recipes">
+        <link target="text.shtml?Apfelcurry_a_la_Siebeck">
+            <name>Apfelcurry a la Siebeck</name>
+            <description>
+                Ein Curry mit &#196;pfeln und Fisch, frei nacherz&#228;hlt nach Wolfram
+                Siebecks Rezeptsammlung.
+            </description>
+        </link>
+        <link target="text.shtml?Bratkartoffeln_Sonja">
+            <name>Bratkartoffeln (Sonja)</name>
+            <description>
+                Sonjas Anleitung f&#252;r Bratkartoffeln.
+            </description>
+        </link>
+        <link target="text.shtml?Koenigsberger_Klopse_a_la_Sonja">
+            <name>K&#246;nigsberger Klopse a la Sonja</name>
+            <description>
+                Sonjas Rezept f&#252;r K&#246;nigsberger Klopse, ganz einfach.
+            </description>
+        </link>
+        <link target="text.shtml?Lasagne_a_la_Internet">
+            <name>Lasagne a la Internet</name>
+            <description>
+                Standard-Lasagnerezept aus dem Internet.
+            </description>
+        </link>
+        <link target="text.shtml?Patricks_Frikadellen">
+            <name>Patricks Frikadellen</name>
+            <description>
+                Patricks Rezept f&#252;r Frikadellen (oder Bulletten oder Klopse).
+            </description>
+        </link>
+        <link target="text.shtml?Pizza_selbstgemacht">
+            <name>Selbstgemachte Pizza</name>
+            <description>
+                Standardrezept zum Selberbasteln von Pizza, von Sonja oder 
+                Simone.
+            </description>
+        </link>
+        <link target="text.shtml?Quiche_Lorraine_wie_bei_Sonja">
+            <name>Quiche Lorraine wie bei Sonja</name>
+            <description>
+                Quiche Lorraine komplett selbstgemacht, auch dieses Rezept ist
+                von Sonja.
+            </description>
+        </link>
+        <link target="text.shtml?Quick_Stir_Fry_Patrick_Style">
+            <name>Quick Stir Fry, Patrick's style</name>
+            <description>
+                Schnelles und einfaches Pfannengebrate, ein Tipp von Patrick.
+            </description>
+        </link>
+        <link target="text.shtml?Risotto_nach_Sonjas_Art">
+            <name>Risotto, Sonjas Art</name>
+            <description>
+                Das Risottorezept von Sonja.
+            </description>
+        </link>
+        <link target="text.shtml?Sonjas_Gnocchi_mit_Tomatensauce">
+            <name>Gnocchi mit Tomatensauce (Sonja)</name>
+            <description>
+                Gnocchi mit einer Tomatensauce.
+            </description>
+        </link>
+        <link target="text.shtml?Spiegeleier_mit_Speck_nach_Sonjas_Art">
+            <name>Spiegeleier mit Speck wie bei Sonja</name>
+            <description>
+                Sonjas Variation des Spiegeleier-mit-Speck-Themas.
+            </description>
+        </link>
+        <link target="text.shtml?Thai-Curry_von_Reiko">
+            <name>Thai-Curry von Reiko</name>
+            <description>
+                Ein Rezept f&#252;r ein Thai-Curry von Reiko.
+            </description>
+        </link>
+        <link target="text.shtml?Ueberbackener_Lachs_a_la_Sonja">
+            <name>&#220;berbackener Lachs a la Sonja</name>
+            <description>
+                Sonjas Anleitung zum &#220;berbacken von Lachs.
+            </description>
+        </link>
+    </group>
+</linklist>

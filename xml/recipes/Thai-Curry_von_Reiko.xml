@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Thai-Curry von Reiko</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Sojasauce</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Fischsauce</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>250g Fleisch oder Geflügel</item></ing>
+      <ing>
+        <amt>
+          <qty>1.0</qty>
+          <unit>Dose</unit></amt>
+        <item>Kokosmilch</item></ing>
+      <ing>
+        <amt>
+          <qty>250.0</qty>
+          <unit>gram</unit></amt>
+        <item>frische Champignon, Menge nach Bedarf</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Cashewkerne</item></ing>
+      <ing>
+        <amt>
+          <qty>80.0</qty>
+          <unit>gram</unit></amt>
+        <item>rote Currypaste</item></ing></ingredients>
+    <directions>
+      <step>Das Fleisch in Fisch-/Sojasauce (was auch immer ;-) marinieren. Dann in einer Pfanne (was auch immer...) mit etwas Öl anbraten. Die Currypaste dazu und mit etwas Wasser auflösen. Dann nach und nach die Kokosmilch dazugeben und einkochen lassen. Später kommen auch die Champignons und kurz vor Schluss die Cashews dazu. 
+
+Das Zeug ist fertig wenn die Sauce dick wird und das Fett aus der Kokosmilch auskocht.</step></directions></recipe></recipeml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : text_info.xml
+    Created on : 12. Oktober 2003, 11:20
+    Author     : daniel
+    Description:
+        Purpose of the document follows.
+-->
+
+<linklist>
+    <group name="Informative Text">
+        <link target="text.shtml?copyright">
+            <name>Copyright</name>
+            <description>
+                This is some general information about how copyrights work
+                and what you may and may not do with copyrighted works.
+            </description>
+        </link>
+        <link target="text.shtml?urheber">
+            <name>Urheberrecht</name>
+            <description>
+                Einige generelle Anmerkungen zum Urheberrecht. Erkl&#228;rt was man
+                mit urheverrechtlich gesch&#252;tzten Werken tun und nicht tun darf.
+            </description>
+        </link>
+        <link target="text.shtml?crypto">
+            <name>Kryptographie</name>
+            <description>
+                Eine kurze Einf&#252;hrung in die Anwendung der 
+                Verschl&#252;sselungstechnik.
+            </description>
+        </link>
+        <link target="files.shtml?files">
+            <name>Files/Datein</name>
+            <description>
+                There are also downloadable text documents in the "files"
+                section. Es gibt auch noch Textdokumente zum Herunterladen in 
+                der "Files"-Rubrik.
+            </description>
+        </link>
+    </group>
+</linklist>

@@ -1,0 +1,47 @@
+<div id="mainbody">
+<div class="entry-header">DoorStep - A system for visitor Awareness</div>
+<div class="entry">
+    Minor thesis project at the ubicomp group of the Lancaster University, UK,
+    together with the Telecooperation Office (TeCO) in Karlsruhe.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/studienarbeit.pdf">PDF</a>]
+    
+        [<a href="downloads/gilbert.zip">Software</a>]
+    
+        [<a href="downloads/studienarbeit.ppt">OpenOffice slides</a>]
+    </div>
+<div class="entry-header">Concepts for efficient access on Distributed Shared Memory Systems</div>
+<div class="entry">
+    Paper for a seminar at the Systems Group of the Karlsruhe University. 
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/hotsystems.ps">PostScript</a>]
+    
+        [<a href="downloads/hotsystems.ppt">PowerPoint slides</a>]
+    </div>
+<div class="entry-header">Erbrecht und Unternehmensnachfolge</div>
+<div class="entry">
+    Ausarbeitung zu einem Seminar am Zentrum f&uuml;r angewandte 
+    Rechtswissenschaften der Universit&auml;t Karlsruhe.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/erbrecht.ps">PostScript</a>]
+    
+        [<a href="downloads/erbrecht.pdf">PDF</a>]
+    
+        [<a href="downloads/erbrecht.ppt">PowerPoint slides</a>]
+    </div>
+<div class="entry-header">Telematik on a Spickzettel</div>
+<div class="entry">
+    Zusammenschrieb von pr&uuml;;fungsrelevantem Stoff f&uuml;r meine 
+    Vertiefungsfachpr&uuml;fung in Telematik an der Universit&uuml;t Karlsruhe.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/telematik.ps">PostScript</a>]
+    
+        [<a href="downloads/telematik.pdf">PDF</a>]
+    
+        [<a href="downloads/telematik.tex">LaTex sources</a>]
+    </div>
+</div>

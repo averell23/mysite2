@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Quiche Lorraine wie bei Sonja</title>
+      <categories/></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>400.0</qty>
+          <unit>gram</unit></amt>
+        <item>Speck, gewürfelt</item></ing>
+      <ing>
+        <amt>
+          <qty>200.0</qty>
+          <unit>gram</unit></amt>
+        <item>Käse, gerieben, Greyezer o.ä.</item></ing>
+      <ing>
+        <amt>
+          <qty>8.0</qty>
+          <unit> </unit></amt>
+        <item>Ei</item></ing>
+      <ing>
+        <amt>
+          <qty>500.0</qty>
+          <unit>milliliter</unit></amt>
+        <item>Sahne</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Muskatnuss</item></ing>
+      <ing>
+        <amt>
+          <qty>200.0</qty>
+          <unit>gram</unit></amt>
+        <item>Mehl</item></ing>
+      <ing>
+        <amt>
+          <qty>100.0</qty>
+          <unit>gram</unit></amt>
+        <item>butter</item></ing>
+      <ing>
+        <amt>
+          <qty>0.0</qty>
+          <unit> </unit></amt>
+        <item>Salz</item></ing></ingredients>
+    <directions>
+      <step>Teig: Mehl, Butter und etwas Salz verkneten. Ein Ei mit etwas Wasser (ca. 1-2 EL) verquirlen und zu der Teigmischung geben und durchmengen. Den Teig ca. 30 min im Kühlschrank ruhen lassen.
+
+Vorbacken: Den Teig ausrollen, in eine gefettete Form legen und mit einer Gabel überall einstechen. Bei 180 Grad 20 min lang blindbacken (Backpapier auf den Teig und ca. 1 Tasse Reis, Bohnen o.ä. darauf). Den Boden mit etwas Eigelb bestreichen und noch einmal kurz backen.
+
+Füllung: Speck anbraten und auf Küchenrolle das Fett abtropfen lassen. Eier verquirlen und mit Pfeffer, Salz und Muskatnuss würzen und mit der Sahne vermengen. Den Boden aus dem Ofen holen, mit Käse und Speck bestreuen und die Eier-Sahne-Mischung daraufgeben. Noch einmal ca. 20 Minuten backen.
+
+(4 Personen, ACHTUNG: Mengen unklar!)</step></directions></recipe></recipeml>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : files_rpg.xml.xml
+    Created on : 28. August 2003, 20:09
+    Author     : daniel
+    Description:
+        Purpose of the document follows.
+-->
+
+<downloadlist>
+
+<item>
+    <title>Hard Life</title>
+    <description>
+    A girl is fighting for her place in a hostile world, against overwhelming 
+    odds. Without help, she'll be lost.<br/>
+    I made this as a "quickshot" adventure, set in the world of the "Blue Planet"
+    game by Biohazard. Character sheets have been provided for the first edition
+    of the game, however "Blue Planet" has since been republished by Fantasy 
+    Flight games with new rules.<br/>
+    The scenario contains hints at child abuse, use this at your own discretion.
+    </description>
+    <link target="downloads/hard_life.ps">PostScript</link>
+    <link target="downloads/hard_life.pdf">PDF</link>
+    <link target="downloads/hard_life.tex">LaTex source</link>
+</item>
+
+<item>
+    <title>Peaceful Relations</title>
+    <description>
+    Remote farms are ruthlessly attacked by unknown raiders. Can the slaughter
+    be stopped before an open war breaks out.<br/>
+    These are notes and character descriptions for an adventure that I run
+    as part of a "Deadlands - Lost Colony" game. The scenario could be adapted
+    to almost any wild west/outback setting.
+    </description>
+    <link target="downloads/deadlands.pdf">PDF</link>
+    <link target="downloads/deadlands.tex">LaTex source</link>
+</item>
+
+<item>
+    <title>Feng Shui Characters</title>
+    <description>
+    A collection of character descriptions I made up for a "Feng Shui" campaign.
+    </description>
+    <link target="downloads/fs_characters.pdf">PDF</link>
+    <link target="downloads/fs_characters.tex">LaTex sources</link>
+</item>
+
+<item>
+    <title>Feng Shui Snippets - The mysterious plans of Dr. Shon-Goo</title>
+    <description>
+    A series of notes and plot ideas I made for a "Feng Shui" campaign. Can the
+    players stop Evil Overlord Dr. Shon-Goo from taking over the world?
+    </description>
+    <link target="downloads/fengshui.zip">PDF and Latex sources in one .zip file</link>
+</item>
+
+<item>
+    <title>Feng Shui equipment list</title>
+    <description>
+    A few nifty new items (guns and cars) for use with the "Feng Shui" 
+    roleplaying game.
+    </description>
+    <link target="downloads/fengshui_gear.pdf">PDF</link>
+    <link target="downloads/fengshui_gear.tex">LaTex source</link>
+</item>
+
+<item>
+    <title>A history of the Dark Ages</title>
+    <description>
+    A short timeline of events in medieval Europe. I made this for a "Vampire"
+    campaign, but it's all "real" stuff and may be used for any game. No
+    warranties for historical correctness, though...
+    </description>
+    <link target="downloads/da_history.pdf">PDF</link>
+    <link target="downloads/da_history.tex">LaTex sources</link>
+</item>
+
+<item>
+    <title>gameXF - a roleplaying XML format</title>
+    <description>
+    This was an attempt to create a generic XML format to store roleplaying 
+    information. The package contains an XML schema, XSL Transformation 
+    stylesheets and sample data (character descriptions from a "Feng Shui"
+    and an "Unknown Armies" campaign). I doubt that this project will go
+    any further, but you may use the ideas if you like.<br/>
+    You'll need an XSLT engine to do the stylesheet transformations.
+    </description>
+    <link target="downloads/gameXF.zip">.zip</link>
+</item>
+
+<item>
+    <title>LIRP-Zubehör (German language)</title>
+    <description>
+    Dies sind "Charakterb&#246;gen" f&#252;r ein LIRP (Life Indoor Roleplaying 
+    Game) das wir auf einer Party durchgeführt haben. Jeder Gast erhielt
+    einen solchen Zettel als Characterbeschreibung. Leider habe ich keine
+    Aufschrieb des "Drumherums" und der restlichen Charactere mehr.
+    </description>
+    <link target="downloads/lirp.zip">OpenOffice Dokumente als .zip</link>
+</item>
+
+</downloadlist>

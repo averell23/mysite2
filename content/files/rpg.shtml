@@ -1,0 +1,92 @@
+<div id="mainbody">
+<div class="entry-header">Hard Life</div>
+<div class="entry">
+    A girl is fighting for her place in a hostile world, against overwhelming 
+    odds. Without help, she'll be lost.
+    I made this as a "quickshot" adventure, set in the world of the "Blue Planet"
+    game by Biohazard. Character sheets have been provided for the first edition
+    of the game, however "Blue Planet" has since been republished by Fantasy 
+    Flight games with new rules.
+    The scenario contains hints at child abuse, use this at your own discretion.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/hard_life.ps">PostScript</a>]
+    
+        [<a href="downloads/hard_life.pdf">PDF</a>]
+    
+        [<a href="downloads/hard_life.tex">LaTex source</a>]
+    </div>
+<div class="entry-header">Peaceful Relations</div>
+<div class="entry">
+    Remote farms are ruthlessly attacked by unknown raiders. Can the slaughter
+    be stopped before an open war breaks out.
+    These are notes and character descriptions for an adventure that I run
+    as part of a "Deadlands - Lost Colony" game. The scenario could be adapted
+    to almost any wild west/outback setting.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/deadlands.pdf">PDF</a>]
+    
+        [<a href="downloads/deadlands.tex">LaTex source</a>]
+    </div>
+<div class="entry-header">Feng Shui Characters</div>
+<div class="entry">
+    A collection of character descriptions I made up for a "Feng Shui" campaign.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/fs_characters.pdf">PDF</a>]
+    
+        [<a href="downloads/fs_characters.tex">LaTex sources</a>]
+    </div>
+<div class="entry-header">Feng Shui Snippets - The mysterious plans of Dr. Shon-Goo</div>
+<div class="entry">
+    A series of notes and plot ideas I made for a "Feng Shui" campaign. Can the
+    players stop Evil Overlord Dr. Shon-Goo from taking over the world?
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/fengshui.zip">PDF and Latex sources in one .zip file</a>]
+    </div>
+<div class="entry-header">Feng Shui equipment list</div>
+<div class="entry">
+    A few nifty new items (guns and cars) for use with the "Feng Shui" 
+    roleplaying game.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/fengshui_gear.pdf">PDF</a>]
+    
+        [<a href="downloads/fengshui_gear.tex">LaTex source</a>]
+    </div>
+<div class="entry-header">A history of the Dark Ages</div>
+<div class="entry">
+    A short timeline of events in medieval Europe. I made this for a "Vampire"
+    campaign, but it's all "real" stuff and may be used for any game. No
+    warranties for historical correctness, though...
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/da_history.pdf">PDF</a>]
+    
+        [<a href="downloads/da_history.tex">LaTex sources</a>]
+    </div>
+<div class="entry-header">gameXF - a roleplaying XML format</div>
+<div class="entry">
+    This was an attempt to create a generic XML format to store roleplaying 
+    information. The package contains an XML schema, XSL Transformation 
+    stylesheets and sample data (character descriptions from a "Feng Shui"
+    and an "Unknown Armies" campaign). I doubt that this project will go
+    any further, but you may use the ideas if you like.
+    You'll need an XSLT engine to do the stylesheet transformations.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/gameXF.zip">.zip</a>]
+    </div>
+<div class="entry-header">LIRP-Zubeh&ouml;r (German language)</div>
+<div class="entry">
+    Dies sind "Charakterb&ouml;gen" f&uuml;r ein LIRP (Life Indoor Roleplaying 
+    Game) das wir auf einer Party durchgef&uuml;hrt haben. Jeder Gast erhielt
+    einen solchen Zettel als Characterbeschreibung. Leider habe ich keine
+    Aufschrieb des "Drumherums" und der restlichen Charactere mehr.
+    </div>
+<div class="entry-footer">
+        [<a href="downloads/lirp.zip">OpenOffice Dokumente als .zip</a>]
+    </div>
+</div>
