@@ -1,0 +1,24 @@
+<div id="mainbody">
+    <h1>Send me a message</h1>
+    You can send me an email by using the following
+    form. This is convenient for you and protects my
+    mail address from spam harvesters. 
+    <b>All fields must be filled out.</b>
+    <form method="post" action="http://www.newgods.org/~averell/cgi-bin/FormMail.pl">
+    <div class="entry-header">
+    Your message
+    </div>
+    <div class="contents-body">
+    	<input type="hidden" name="required" value="realname,email,subject,mail" />
+	<label for="realname">Name:</label><br/>
+	<input type="text" id="realname" name="realname" /><br/><br/>
+	<label for="email">Email:</label><br/>
+	<input type="text" id="email" name="email" /><br/><br/>
+	<label for="subject">Subject:</label><br/>
+	<input type="text" id="subject" name="subject" /><br/><br/>
+	<label for="mail">Text:</label><br/>
+    	<textarea name="mail" id="mail" rows="10" cols="40"></textarea><br/><br/>
+	<input type="submit" name="submit" value=" Send " />
+    </div>
+    </form>
+</div>
