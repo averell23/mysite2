@@ -4,6 +4,7 @@
   <title>Daniel's world - For your information</title>
     <link rel="stylesheet" type="text/css" href="styles/default.css">
     <link rel="stylesheet" type="text/css" href="styles/info.css">
+    <link rel="SHORTCUT ICON" href="http://www.limitedcreativity.org/favicon.ico">
     <!-- Include Java script for the navigation bar -->
     <!--#include virtual="includes/navscript.shtml" -->
 </head>

@@ -5,6 +5,7 @@
     <link rel="stylesheet" type="text/css" href="styles/default.css">
     <link rel="stylesheet" type="text/css" href="styles/news.css">
     <link rel="alternate" type="application/rss+xml" title="Daniels newsfeed" href="http://www.limitedcreativity.org/content/news/index.xml">
+    <link rel="SHORTCUT ICON" href="http://www.limitedcreativity.org/favicon.ico">
     <!-- Include Java script for the navigation bar -->
     <!--#include virtual="includes/navscript.shtml" -->
 </head>
