@@ -1,5 +1,5 @@
 <MTEntries>
-
+<$MTEntryTrackbackData$>
 <MTDateHeader>
 <h4><$MTEntryDate format="%A, %B %e, %Y"></h4>
 </MTDateHeader>
@@ -11,16 +11,20 @@
 <$MTEntryBody$>
 </div>
 <div class="entry-footer">
-by <$MTEntryAuthorLink$>, 
-<$MTEntryDate format="%k:%M"$> 
-<$MTBlogTimezone$> UTC
-<MTIfAllowComments>
-(<a href="<$MTCGIPath$><$MTCommentScript$>?entry_id=<$MTEntryID$>">
-Comments: <$MTEntryCommentCount$></a>)
-</MTIfAllowCommnets>
+<a href="<$MTEntryLink archive_type="Category"$>">
+<$MTEntryCategory$>
+</a> by <$MTEntryAuthorLink spam_protect="1"$>, 
 <MTEntryIfExtended>
 [<a href="<$MTEntryPermalink$>#more"> &gt;&gt; more</a>]
 </MTEntryIfExtended>
+</div>
+<div class="entry-footer">
+<MTEntryIfAllowComments>
+[<a href="<$MTCGIPath$><$MTCommentScript$>?entry_id=<$MTEntryID$>">Comments (<$MTEntryCommentCount$>)</a>]
+</MTEntryIfAllowComments>
+<MTEntryIfAllowPings>
+[<a href="<$MTCGIPath$><$MTTrackbackScript$>?__mode=view&entry_id=<$MTEntryID$>">TrackBack (<$MTEntryTrackbackCount$>)</a>]
+</MTEntryIfAllowPings>
 </div>
 
 </MTEntries>

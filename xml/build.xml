@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<project name="site-xml" default="xslt-transform">
+    <target name="misc-lists">
+    	<xslt in="lists/me_friends.xml" 
+	      out="../content/me/friends.shtml"
+	      style="transformations/linklist.xsl"
+	/>
+	<xslt in="lists/text_recipes.xml"
+	      out="../content/text/recipes.shtml"
+	      style="transformations/linklist.xsl"
+	/>
+	<xslt in="lists/text_info.xml"
+	      out="../content/text/info.shtml"
+	      style="transformations/linklist.xsl"
+	/>
+	<xslt in="lists/text_travellogs.xml"
+	      out="../content/text/travellogs.shtml"
+	      style="transformations/linklist.xsl"
+	/>
+	<xslt in="lists/files_rpg.xml"
+	      out="../content/files/rpg.shtml"
+	      style="transformations/downloadlist.xsl"
+	/>
+	<xslt in="lists/files_professional.xml"
+	      out="../content/files/professional.shtml"
+	      style="transformations/downloadlist.xsl"
+	/>
+	<xslt in="lists/linklist.xml"
+	      out="../content/linklist.shtml"
+	      style="transformations/linklist.xsl"
+	/>
+    </target>
+    
+    <target name="travellogs">
+    	<xslt basedir="travellogs"
+	      destdir="../content/text"
+	      extension=".shtml"
+	      style="transformations/diary.xsl"
+	/>    
+    </target>
+
+    <target name="recipes">
+    </target>
+
+    <target name="xslt-transform" depends="misc-lists,travellogs,recipes" />
+</project>

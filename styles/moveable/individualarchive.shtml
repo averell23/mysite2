@@ -17,7 +17,7 @@
 </div>
 
 <div class="entry-footer">
-Posted by <$MTEntryAuthorLink$>
+<$MTEntryCategory$> by <$MTEntryAuthorLink spam_protect="1"$>
 </div>
 
 <MTEntryIfAllowComments>

@@ -1,7 +1,7 @@
 <div class="entry-header">Post a comment</div>
 
+<form method="post" action="<$MTCGIPath$><$MTCommentScript$>" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
 <div class="comments-body">
-<form method="post" action="<$MTCGIPath$><$MTCommentScript$>" name="comments_form">
 <input type="hidden" name="static" value="1" />
 <input type="hidden" name="entry_id" value="<$MTEntryID$>" />
 
@@ -23,5 +23,18 @@ Remember personal info?<br />
 
 <input type="submit" name="preview" value=" Preview " />
 <input style="font-weight: bold;" type="submit" name="post" value=" Post " /><br /><br />
-
+</div>
 </form>
+
+<script type="text/javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>

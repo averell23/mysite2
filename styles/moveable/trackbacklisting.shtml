@@ -1,0 +1,29 @@
+<$MTInclude module="cgiheader"$>
+<div id="mainbody">
+<h4>Track me back</h4>
+<div class="entry-header">
+Articles refering to <a href="<$MTEntryPermalink$>"><$MTEntryTitle$></a>
+</div>
+<MTPings>
+<div class="commentbody">
+<$MTPingExcerpt$>
+</div>
+<div class="comment-footer">
+<a href="<$MTPingURL$>"><$MTPingTitle$></a> on <$MTPingBlogName$>
+</div>
+</MTPings>
+<div class="entry-header">
+TrackBack URL
+</div>
+<div class="entry">
+The TrackBack URL for this entry is 
+<div class="entry-para">
+<b><$MTEntryTrackbackLink$> </b>
+</div>
+<div class="entry-para">
+If you want to learn more about TrackBack, read the <a href="http://www.movabletype.org/trackback/beginners/">Beginner's Guide</a> on the MoveableType homepage.
+</div>
+</div>
+
+</div>
+<$MTInclude module="pagefooter"$>

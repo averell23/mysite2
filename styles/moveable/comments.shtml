@@ -1,11 +1,13 @@
+<MTComments lastn="1">
 <div class="entry-header">
 <$MTEntryCommentCount$> Comments
 </div>
+</MTComments>
 <MTComments>
 <div class="commentbody">
 <$MTCommentBody$>
 </div>
 <div class="comment-footer">
-<$MTCommentAuthorLink spam_protect="1"$>, <$MTCommentDate$ format="%B %e, %Y, %H:%m">
+<$MTCommentAuthorLink spam_protect="1"$>, <$MTCommentDate format="%B %e, %Y, %H:%m"$>
 </div>
 </MTComments>

@@ -1,5 +1,6 @@
 <$MTInclude module="cgiheader"$>
 <div id="mainbody">
 <$MTInclude module="comments"$>
+<$MTInclude module="commentform"$>
 </div>
 <$MTInclude module="pagefooter"$>

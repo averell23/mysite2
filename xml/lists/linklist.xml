@@ -35,6 +35,32 @@
     </group>
     
     <group name="culture">
+        <link target="http://www.plinko.net/">
+	    <name>plinko</name>
+	    <description>
+	    Plinko is Jenni, Heather, and Bertine. It's also 404lab, 
+	    creamedpeas, chocolatemussolini, bertine and runawaytruck. 
+	    This is a creative project, diary, whatever - too bad there's
+	    no rss to keep me up to date.
+	    </description>
+	</link>
+	<link target="http://www.chocolatemussolini.com">
+	    <name>chocolatemussolini</name>
+	    <description>
+	    This is Jenni of plinko.net. Although I deeply mistrust
+	    people who consume tofu-based meat replacement products,
+	    or use words like "superawsome", it's quite good.
+	    </description>
+	</link>
+	<link target="http://www.notpretty.com">
+	    <name>not pretty</name>
+	    <description>
+	    Quote: <i>Not pretty is an effort to reclaim the role of the 
+	    antagonist, to show no one is ever always right or wrong, 
+	    no matter how well intended.</i> While the whole point of the page
+	    is to dwell on one's shortcomings, these are well written stories.
+	    </description>
+	</link>
         <link target="http://www.seniorentanztee.de/">
             <name>Seniorentanztee</name>
             <description>
@@ -43,6 +69,20 @@
             German language).
             </description>
         </link>
+	<link target="http://alexthegirl.com/">
+	    <name>GIRL: a page by alex</name>
+	    <description>
+	    Not another blog. The girl can write, and I like her view on life.
+	    </description>
+	</link>
+	<link target="http://www.spamradio.com/">
+	    <name>spamradio</name>
+	    <description>
+	    Tired of spam as you know it? Now you can have it read to 
+	    you by a friendly computer voice round the clock. Including
+	    nice background music.
+	    </description>
+	</link>
     </group>
     <group name="online services">
         <link target="http://dict.leo.org/">
