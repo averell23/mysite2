@@ -90,6 +90,14 @@ div#mainbody h2 {
     font-size: small;
 }
 
+/* We abuse the <h4> heading for large headings */
+div#mainbody h4 {
+    font-family: sans-serif;
+    text-transform: lowercase;
+    font-style: normal;
+    font-size: large;
+}
+
 div#mainbody p {
     padding-left: 5ex;
     text-align: justify;
