@@ -19,7 +19,7 @@
     
     <!-- Matches the group entries -->
     <xsl:template match="group">
-        <h1><xsl:value-of select="@name" /></h1>
+        <h4><xsl:value-of select="@name" /></h4>
         <xsl:apply-templates select="link" />
     </xsl:template>
     
