@@ -1,43 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <title>The center of my world</title>
-    <link rel="stylesheet" type="text/css" href="styles/default.css">
-    <!-- Include Java script for the navigation bar -->
-    <!--#include virtual="includes/navscript.shtml" -->
-</head>
-<body>
-    <!-- Include the navigation bar -->
-    <!--#include virtual="includes/navbar.shtml" -->
+<div id="mainbody">
+<div id="entry-header">
+2nd
+</div>
+<div id="entry-header">
+Test Entry
+</div>
 
-<div id="mainbody"> 
-<h1>Heading for sciuri</h1>
-<p>
-Sciuri ite domum, etiam lepusculi. Sciuri ite domum,
-etiam lepusculi. 	Sciuri ite domum, etiam lepusculi. Sciuri ite domum,
-etiam lepusculi.     Sciuri ite domum, etiam lepusculi. Sciuri ite
-domum, etiam lepusculi. 	Sciuri ite domum, etiam lepusculi. Sciuri ite
-domum, etiam lepusculi. 	Sciuri ite domum, etiam lepusculi. Sciuri ite
-domum, etiam lepusculi.     Sciuri ite domum, etiam lepusculi. Sciuri
-ite domum, etiam lepusculi. 	Sciuri ite domum, etiam lepusculi. Sciuri
-ite domum, etiam lepusculi. 	Sciuri ite domum, etiam lepusculi. Sciuri
-ite domum, etiam lepusculi.     Sciuri ite domum, etiam lepusculi.
-Sciuri ite domum, etiam lepusculi. 	Sciuri ite domum, etiam lepusculi.
-Sciuri ite domum, etiam lepusculi. 	Sciuri ite domum, etiam lepusculi.
-Sciuri ite domum, etiam lepusculi.     Sciuri ite domum, etiam
-lepusculi. Sciuri ite domum, etiam lepusculi.
-</p>
-<p>
-Ah! Ibi Sciurum stat! Sciurum Lepusculus necat. Marcus gaudet.
-</p>
-Sciuri ite domum, etiam lepusculi. Sciuri ite domum, etiam lepusculi. Sciuri
-ite domum, etiam lepusculi. Sciuri ite domum, etiam lepusculi.
-<div class="entry-header">An entry into the system</div>
-<div class="entry">
-Sciuri ite domum. Sciuri ite domum. ETIAM lepusculi! SCIURI! ITE DOMUM! LEPUSCULI!
-ITE DOMUM! MOPPUM GAUDET!
 </div>
-<div class="entry-footer">Footer, date <!--#echo var="DATE_LOCAL" --></div>
-</div>
-</body>
-</html>

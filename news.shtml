@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>Daniel's world - News in my world</title>
+    <link rel="stylesheet" type="text/css" href="styles/default.css">
+    <!-- Include Java script for the navigation bar -->
+    <!--#include virtual="includes/navscript.shtml" -->
+</head>
+<body>
+    <div id="navmenu-background">.</div>
+    <!-- Include the navigation bar -->
+    <!--#include virtual="includes/navbar.shtml" -->
+    <div id="mainbody-top">.</div>
+    <!--#include virtual="content/news/news_submenu.shtml" -->
+    <!--#if expr="${QUERY_STRING} != '' " -->
+    <!--#include virtual="content/news/${QUERY_STRING}.shtml" -->
+    <!--#else -->
+    <!--#include virtual="content/news/news.shtml" -->
+    <!--#endif -->
+</body>
