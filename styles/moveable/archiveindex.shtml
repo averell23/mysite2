@@ -1,0 +1,10 @@
+<!-- Moveable Type archive template -->
+<div id="mainbody">
+<h4>Archives</h4>
+<MTArchiveList>
+<p>
+<a href="<$MTArchiveLink$>"><$MTArchiveTitle$></a>
+</p>
+</MTArchiveList>
+</div>
+<!-- End of Moveable Type archive template -->

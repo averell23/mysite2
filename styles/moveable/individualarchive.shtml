@@ -1,0 +1,32 @@
+<$MTInclude module="archiveheader"$>
+
+<div id="mainbody">
+<h4><$MTEntryDate format="%B %e, %Y, %H:%m"$></h4>
+
+<div class="entry-header">
+<$MTEntryTitle$>
+</div>
+
+<div class="entry">
+<$MTEntryBody$>
+</div>
+
+<div class="entry">
+<a name="more"></a>
+<$MTEntryMore$>
+</div>
+
+<div class="entry-footer">
+Posted by <$MTEntryAuthorLink$>
+</div>
+
+<MTEntryIfAllowComments>
+<$MTInclude module="comments"$>
+</MTEntryIfAllowComments>
+
+<MTEntryIfCommentsOpen>
+<$MTInclude module="commentform"$>
+</MTEntryIfCommentsOpen>
+
+</div>
+<$MTInclude module="pagefooter">

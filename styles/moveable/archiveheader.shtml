@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>Daniel's world - News in my world - Archive</title>
+    <link rel="stylesheet" type="text/css" href="../../../styles/default.css">
+    <!-- Include Java script for the navigation bar -->
+    <!--#include virtual="../../../includes/navscript.shtml" -->
+</head>
+<body>
+    <div id="navmenu-background">.</div>
+    <!-- Main navigation bar area (hardcoded in MT!) -->
+    <div id="navmenu">
+      <a href="../../../me.shtml?portrait" onMouseOver="picChange(0,black1)" onMouseOut="picChange(0,light1)">
+        <img style="width: 45px; height: 25px;" src="pictures/me_grey.png" alt="me"/>
+    </a>
+    <a href="../../../news.shtml" onMouseOver="picChange(1,black2)" onMouseOut="picChange(1,light2)">
+        <img style="width: 70px; height: 25px;" src="pictures/news_grey.png" alt="news"/>
+    </a>
+    <a href="../../../text.shtml?text" onMouseOver="picChange(2,black3)" onMouseOut="picChange(2,light3)">
+        <img style="width:58px; height: 25px;" src="pictures/text_grey.png" alt="text" />
+    </a>
+    <a href="../../../links.shtml" onMouseOver="picChange(3,black4)" onMouseOut="picChange(3,light4)">
+        <img style="width: 65px; height: 25px;" src="pictures/links_grey.png" alt="links"/>
+    </a>
+    <a href="../../../files.shtml?files" onMouseOver="picChange(4,black5)" onMouseOut="picChange(4,light5)">
+        <img style="width: 60px; height: 25px;" src="pictures/files_grey.png" alt="files"/>
+    </a>
+    <a href="../../../info.shtml" onMouseOver="picChange(5,black6)" onMouseOut="picChange(5,light6)">
+        <img style="width: 25px; height: 25px;" src="pictures/info_grey.png" alt="info"/>
+    </a>
+    <span id="navbardummy"></span>
+</div>
+<!-- Include: Navigation bar ends here -->
+
+<div id="mainbody-top">.</div>

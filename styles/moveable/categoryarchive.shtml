@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+
+<title><$MTBlogName$>: <$MTArchiveTitle$> Archives</title>
+
+<link rel="stylesheet" href="<$MTBlogURL$>styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="<$MTBlogURL$>index.rdf" />
+
+<script language="javascript" type="text/javascript">
+function OpenComments (c) {
+    window.open(c,
+                    'comments',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+</script>
+
+</head>
+
+<body>
+
+<div id="banner">
+<h1><a href="<$MTBlogURL$>" accesskey="1"><$MTBlogName$></a></h1>
+<span class="description"><$MTBlogDescription$></span>
+</div>
+
+<div id="container">
+
+<div class="blog">
+<MTEntries>
+<$MTEntryTrackbackData$>
+
+<MTDateHeader>
+<h2 class="date"><$MTEntryDate format="%x"$></h2>
+</MTDateHeader>
+
+<div class="blogbody">
+
+<a name="<$MTEntryID pad="1"$>"></a>
+<h3 class="title"><$MTEntryTitle$></h3>
+
+<$MTEntryBody$>
+
+<MTEntryIfExtended>
+<$MTEntryMore$>
+</MTEntryIfExtended>
+
+<div class="posted">
+	Posted by <$MTEntryAuthor$> at <a href="<$MTEntryPermalink$>"><$MTEntryDate format="%X"$></a>
+	<MTEntryIfAllowComments>
+	| <a href="<$MTCGIPath$><$MTCommentScript$>?entry_id=<$MTEntryID$>" onclick="OpenComments(this.href); return false">Comments (<$MTEntryCommentCount$>)</a>
+	</MTEntryIfAllowComments>
+	<MTEntryIfAllowPings>
+	| <a href="<$MTCGIPath$><$MTTrackbackScript$>?__mode=view&amp;entry_id=<$MTEntryID$>" onclick="OpenTrackback(this.href); return false">TrackBack</a>
+	</MTEntryIfAllowPings>
+</div>
+
+</div>
+
+</MTEntries>
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<div class="entry-header">Post comment</div>
+
+<div class="comments-body">
+<form method="post" action="<$MTCGIPath$><$MTCommentScript$>" name="comments_form">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="<$MTEntryID$>" />
+
+<label for="author">Name:</label><br />
+<input tabindex="1" id="author" name="author" /><br /><br />
+
+<label for="email">Email Address:</label><br />
+<input tabindex="2" id="email" name="email" /><br /><br />
+
+<label for="url">URL:</label><br />
+<input tabindex="3" id="url" name="url" /><br /><br />
+
+
+Remember personal info?<br />
+<input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" value="Forget Info" /><label for="forget">No</label><br style="clear: both;" />
+
+<label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="40"><$MTCommentPreviewBody convert_breaks="0" encode_html="1"$></textarea><br /><br />
+
+<input type="submit" name="preview" value=" Preview " />
+<input style="font-weight: bold;" type="submit" name="post" value=" Post " /><br /><br />
+
+</form>

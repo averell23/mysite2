@@ -1,0 +1,26 @@
+<$MTInclude module="cgiheader">
+<div id="mainbody">
+<div class="entry-header">
+Posting error
+</div>
+<div class="entry">
+Your comment could not be posted for the following reason:
+<p>
+<$MTErrorMessage$>
+</p>
+Please correct the error in the form below
+</div>
+<div class="entry-header">
+Repost comment
+</div>
+<div class="commentbody">
+<$MTCommentPreviewBody$>
+</div>
+<div class="comment-footer">
+Posted by <$MTCommentPreviewAuthorLink$>
+</div>
+
+<$MTInclude module="commentpreviewform"$>
+
+</div>
+<$MTInclude module="pagefooter">

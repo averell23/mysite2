@@ -1,0 +1,16 @@
+<div id="mainbody">
+<h4>The News</h4>
+
+<!-- Moveable Type entries -->
+<$MTInclude module="shortentries"$>
+<!-- Moveable Type entries end here -->
+
+
+<h1>
+[<a href="<$MTBlogURL$>index.rdf">RSS 1.0 feed</a>]
+[<a href="<$MTBlogURL$>index.xml">RSS 2.0 feed</a>]
+</h1>
+<p style="text-align: right;">
+<a href="http://www.moveabletype.org">Powered by MoveableType</a>
+</p>
+</div>

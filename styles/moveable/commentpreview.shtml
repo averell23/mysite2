@@ -1,0 +1,16 @@
+<$MTInclude module="cgiheader">
+<div id="mainbody">
+<div class="entry-header">
+Preview comment: 
+</div>
+<div class="commentbody">
+<$MTCommentPreviewBody$>
+</div>
+<div class="comment-footer">
+Posted by <$MTCommentPreviewAuthorLink$>
+</div>
+
+<$MTInclude module="commentpreviewform"$>
+
+</div>
+<$MTInclude module="pagefooter">

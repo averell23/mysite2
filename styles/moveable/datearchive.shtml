@@ -1,0 +1,34 @@
+<$MTInclude module="archiveheader"$>
+<div id="mainbody">
+
+<!-- Moveable Type entries -->
+<MTEntries>
+
+<MTDateHeader>
+<h4><$MTEntryDate format="%A, %B %e, %Y"></h4>
+</MTDateHeader>
+
+<div class="entry-header">
+<$MTEntryTitle$>
+</div>
+<div class="entry">
+<$MTEntryBody$>
+</div>
+<div class="entry-footer">
+by <$MTEntryAuthorLink$>, 
+<$MTEntryDate format="%k:%M"$> 
+<$MTBlogTimezone$> UTC
+<MTIfAllowComments>
+(<a href="<$MTCGIPath$><$MTCommentScript$>?entry_id=<$MTEntryID$>">
+Comments: <$MTEntryCommentCount$></a>)
+</MTIfAllowCommnets>
+<MTEntryIfExtended>
+[<a href="<$MTEntryPermalink$>#more"> &gt;&gt; more</a>]
+</MTEntryIfExtended>
+</div>
+
+</MTEntries>
+<!-- Moveable Type entries end here -->
+
+</div>
+<$MTInclude module="pagefooter"$>
