@@ -1,58 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+<body>
 <div id="mainbody">
-    <h1>About copyrights</h1>
-    There are still many misconceptions about copyrights and trademarks
-    and how they apply to
-    the internet. I pick some of the most popular to give a quick overview of
-    the topic.
-    
+    <h4>misconceptions about copyrights</h4>
+        There are still many misconceptions about copyrights and trademarks and
+        how they apply to the Internet. I pick some of the most popular to give
+        a quick overview of the topic.
     <h2>If it's on the web it's free to use</h2>
-    No matter if the material is on the internet, in a museum or a book: You
-    must <b>always</b> obtain the author's permission to re-publish his work.
-    (It's usually o.k. to make copies for private use, but private use does 
-    <b>not</b> include using it for your own pages.)
-
-    <h2>I can use any material if my page is not commercial</h2>
-    It doesn't matter if your page is "commercial" or not. If you publish
-    someone else's work you <b>always</b> need the author's permission.
-
+        <p> 
+        No matter if the material is on the Internet, in a museum or a
+        book: You must <b>always</b> obtain the author's permission to
+        re-publish his work. (It's usually o.k. to make copies for private use,
+        but private use does <b>not</b> include using it for your own pages.) 
+        </p>
+        <h2>I can use any material if my page is not commercial</h2>
+        <p> 
+        It doesn't matter if your page is "commercial" or not. If you
+        publish someone else's work you <b>always</b> need the author's
+        permission. 
+        </p>
     <h2>I need permission to link to other pages and must not "deep link"</h2>
-    This isn't really a copyright issue, but at least in Germany you may "deep
-    link" to your heart's desire. The german supreme court (Bundesgerichtshof)
-    decided that as long as a page is publicly available on the net you may
-    link to it, wether the author likes it or not.
-
+        <p> 
+        This isn't really a copyright issue, but at least in Germany you
+        may "deep link" to your heart's desire. The German supreme court
+        (Bundesgerichtshof) decided that as long as a page is publicly
+        available on the net you may link to it, whether the author likes it or
+        not. 
+        </p>
     <h2>I must not use a trademark without the owner's permission</h2>
-    While you must not use someones trademark if it is your own (e.g. to
-    endorse the sale of your product), you may of course use any trademark 
-    for describing the product. (e.g. when you write about Microsoft Word,
-    Microsoft cannot stop you from calling their prodoct "Microsoft Word").
-    <p>
-    In the European Union you also have the right to use a trademark to 
-    declare compatibility ("This program runs under Windows XP"). 
-    </p>
-    <p>
-    You also don't need disclaimers or other vodoo like "(tm)" signs (at least
-    not in Germany).
-    </p>
-
+        <p> 
+        While you must not use someone's trademark if it is your own (e.g.
+        to endorse the sale of your product), you may of course use any
+        trademark for describing the product. (e.g. when you write about
+        Microsoft Word, Microsoft cannot stop you from calling their product
+        "Microsoft Word"). 
+        </p>
+        <p> 
+        In the European Union you also have the right to use a trademark to
+        declare compatibility ("This program runs under Windows XP"). 
+        </p>
+        <p> 
+        You also don't need disclaimers or other vodoo like "(tm)" signs
+        (at least not in Germany). 
+        </p>
     <h2>If I change something, I own it.</h2>
-    By changing an existing work you create a new one. That doesn't void the 
-    rights of the original author, however. You still need his permission
-    to distribute the new work
-
+        <p> 
+        By changing an existing work you create a new one. That doesn't
+        void the rights of the original author, however. You still need his
+        permission to distribute the new work 
+        </p>
     <h2>Disclaimers</h2>
-    This is also no copyright question. However, it has become a widespread
-    practice to use "Disclaimers" to avoid legal troubles. These things usually
-    fullfil the same function as magical incantations and are equally reliable.
-    Almost all of them have no legal value whatsoever. (Again, this is true
-    for Germany).
-    <p>
-    Simply put: An illegal act doesn't become legal by you willing (or
-    disclaiming) it so.
-    </p>
-
+        <p> 
+        This is also no copyright question. However, it has become a
+        widespread practice to use "Disclaimers" to avoid legal troubles. These
+        things usually fulfil the same function as magical incantations and are
+        equally reliable. Almost all of them have no legal value whatsoever.
+        (Again, this is true for Germany). 
+        </p>
+        <p> 
+        Simply put: An illegal act doesn't become legal by you willing (or
+        disclaiming) it so. 
+        </p>
     <h2>Copyrights protect ideas</h2>
-    A copyright doesn't protect an idea, but only the <i>expression</i> of an
-    idea. The idea itself (e.g. "a book about people falling in love") can
-    <b>not</b> be protected.
+        <p> 
+        A copyright doesn't protect an idea, but only the <i>expression</i>
+        of an idea. The idea itself (e.g. "a book about people falling in
+        love") can <b>not</b> be protected. 
+        </p>
 </div>
+</body>
+</html>
