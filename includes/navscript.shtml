@@ -12,7 +12,7 @@
     black2.src = "pictures/news_black.png";
 
     light3 = new Image();
-    light2.src = "pictures/text_grey.png";
+    light3.src = "pictures/text_grey.png";
     black3 = new Image();
     black3.src = "pictures/text_black.png";
 
