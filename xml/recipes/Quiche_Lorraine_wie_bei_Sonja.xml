@@ -9,12 +9,12 @@
       <ing>
         <amt>
           <qty>400.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Speck, gewürfelt</item></ing>
       <ing>
         <amt>
           <qty>200.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Käse, gerieben, Greyezer o.ä.</item></ing>
       <ing>
         <amt>
@@ -24,7 +24,7 @@
       <ing>
         <amt>
           <qty>500.0</qty>
-          <unit>milliliter</unit></amt>
+          <unit>Milliliter</unit></amt>
         <item>Sahne</item></ing>
       <ing>
         <amt>
@@ -34,12 +34,12 @@
       <ing>
         <amt>
           <qty>200.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Mehl</item></ing>
       <ing>
         <amt>
           <qty>100.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Butter</item></ing>
       <ing>
         <amt>

@@ -9,12 +9,12 @@
       <ing>
         <amt>
           <qty>800.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Rotbarschfilet</item></ing>
       <ing>
         <amt>
           <qty>400.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>säuerliche Apfel</item></ing>
       <ing>
         <amt>
@@ -35,7 +35,7 @@
         <amt>
           <qty>0.0</qty>
           <unit> </unit></amt>
-        <item>butter</item></ing>
+        <item>Butter</item></ing>
       <ing>
         <amt>
           <qty>0.0</qty>
@@ -44,6 +44,6 @@
     <directions>
       <step>Braten, die Rosinen dazu, und mit 4-8 TL Thai-Curry bestreuen, Curry evtl. mit etwas Wasser auflösen.</step>
 <step>Hitze erhöhen, und Fisch dazu (etwas salzen).</step>
-<step>Kurz von allen Seiten anbraten, der Fisch sollte aussen weiss und innen noch nicht gar sein (ca. 1 Minute).</step>
+<step>Kurz von allen Seiten anbraten, der Fisch sollte aussen weiß und innen noch nicht gar sein (ca. 1 Minute).</step>
 <step>
-Alles mit dem Reis zusammenmischen, und in einer mit Alufolie abgedeckten Auflaufform 30 min. bei 120 Grad backen.</step></directions></recipe></recipeml>
+Alles mit dem Reis zusammen mischen, und in einer mit Alufolie abgedeckten Auflaufform 30 min. bei 120 Grad backen.</step></directions></recipe></recipeml>

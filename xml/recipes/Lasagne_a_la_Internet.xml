@@ -29,7 +29,7 @@
       <ing>
         <amt>
           <qty>300.0</qty>
-          <unit>gram</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Hackfleisch, vom Rind</item></ing>
       <ing>
         <amt>
@@ -39,7 +39,7 @@
       <ing>
         <amt>
           <qty>200.0</qty>
-          <unit>milliliter</unit></amt>
+          <unit>Milliliter</unit></amt>
         <item>Wasser</item></ing>
       <ing>
         <amt>
@@ -59,17 +59,17 @@
       <ing>
         <amt>
           <qty>80.0</qty>
-          <unit>gram</unit></amt>
-        <item>butter</item></ing>
+          <unit>Gramm</unit></amt>
+        <item>Butter</item></ing>
       <ing>
         <amt>
           <qty>40.0</qty>
-          <unit>gram</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Mehl</item></ing>
       <ing>
         <amt>
           <qty>600.0</qty>
-          <unit>milliliter</unit></amt>
+          <unit>Milliliter</unit></amt>
         <item>Milch</item></ing>
       <ing>
         <amt>
@@ -84,16 +84,16 @@
       <ing>
         <amt>
           <qty>300.0</qty>
-          <unit>gram</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Lasagneblätter</item></ing>
       <ing>
         <amt>
           <qty>150.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Parmesan</item></ing></ingredients>
     <directions>
       <step>Hackfleischsauce: Zwiebeln,  Möhren und Sellerie fein hacken und den Speck würfeln. Speck in einem Topf bei starker Hitze kurz anbraten, Gemüse zugeben und 2 min dünsten. Das Hackfleisch dazugeben und bröselig braten, dann das Tomatenmark mit dem Wasser dazugeben. Ragout mit Rosmarin, Salz und Pfeffer würzen und bei schwacher Hitze ca. 1 Stunde köcheln lassen.</step>
-      <step>Bechamelsauce: Die Hälfte der Butter schmelzen und das Mehl hell anschitzen. Milch zugeben und mit dem Schneebesen kräftig rühren. Salzen, ca. 30 min bei schwacher Hitze quellen lassen und mit Muskatnuss abschmecken.</step>
+      <step>Bechamelsauce: Die Hälfte der Butter schmelzen und das Mehl hell anschwitzen. Milch zugeben und mit dem Schneebesen kräftig rühren. Salzen, ca. 30 min bei schwacher Hitze quellen lassen und mit Muskatnuss abschmecken.</step>
         <step>Die Form ölen, mit Lasagneblättern auslegen und abwechseln mit Hackfleisch- und Bechamelsauce bestreichen. Die Schichten jeweils mit etwas Parmesan bestreuen. Auf die letzte Schicht (Bechamel) die restliche Butter in Flocken verteilen. </step>
 <step>
 Bei 220 Grad auf mittlerer Schiene ca. 25 min backen, bis die Oberfläche braun wird.

@@ -3,7 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
-      <title>Pizza selbstgemacht (Sonja)</title>
+      <title>Pizza selbst gemacht (Sonja)</title>
       <categories/></head>
     <ingredients>
       <ing>
@@ -14,7 +14,7 @@
       <ing>
         <amt>
           <qty>250.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Mehl</item></ing>
       <ing>
         <amt>
@@ -40,7 +40,7 @@
         <amt>
           <qty>0.0</qty>
           <unit> </unit></amt>
-        <item>oregano</item></ing>
+        <item>Oregano</item></ing>
       <ing>
         <amt>
           <qty>0.0</qty>
@@ -57,7 +57,7 @@
           <unit> </unit></amt>
         <item>diverse Zutaten für den Belag</item></ing></ingredients>
     <directions>
-      <step>Hefe mit dem laufwarmen Wasser verrühren und mit Mehl, Salz und Öl in einer Küchenmaschine zusammenkneten. Danach eine Weile (ca. 40 min) im Kühlschrank gehen lassen.</step>
+      <step>Hefe mit dem lauwarmen Wasser verrühren und mit Mehl, Salz und Öl in einer Küchenmaschine zusammenkneten. Danach eine Weile (ca. 40 min) im Kühlschrank gehen lassen.</step>
       <step>Tomatenpüree mit Oregano und Thymian vermischen. Den Teig ausrollen und mit dem Tomatenpürre bestreichen und nach Wunsch belegen und würzen.</step> 
       <step>Auf den Belag Käse und etwas Öl. ca. 15-20 Minuten bei 180 Grad backen.</step>
-      <step>Für Pizza Calzone: ca. 100 g rohen Schinken anbraten, 150g und 150g Mozarella zerkleinern und mit 2 Eiern und dem Schinken mischen. 150g Parmesan dazugeben und mit Salz, Pfeffer und Oregano abschmecken. Den Pizzateig mit der Füllung zusammenklappen, aussen mit Eigelb und Olivenöl bestreichen und backen.</step></directions></recipe></recipeml>
+      <step>Für Pizza Calzone: ca. 100 g rohen Schinken anbraten, 150g und 150g Mozzarella zerkleinern und mit 2 Eiern und dem Schinken mischen. 150g Parmesan dazugeben und mit Salz, Pfeffer und Oregano abschmecken. Den Pizzateig mit der Füllung zusammenklappen, aussen mit Eigelb und Olivenöl bestreichen und backen.</step></directions></recipe></recipeml>

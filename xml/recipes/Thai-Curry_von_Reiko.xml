@@ -29,7 +29,7 @@
       <ing>
         <amt>
           <qty>250.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>frische Champignon, Menge nach Bedarf</item></ing>
       <ing>
         <amt>
@@ -39,7 +39,7 @@
       <ing>
         <amt>
           <qty>80.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>rote Currypaste</item></ing></ingredients>
     <directions>
       <step>Das Fleisch in Fisch-/Sojasauce (was auch immer ;-) marinieren. Dann in einer Pfanne (was auch immer...) mit etwas Öl anbraten.</step> 

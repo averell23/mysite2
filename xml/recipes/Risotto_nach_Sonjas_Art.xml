@@ -34,18 +34,18 @@
       <ing>
         <amt>
           <qty>400.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Hackfleisch</item></ing>
       <ing>
         <amt>
           <qty>2.0</qty>
           <unit> </unit></amt>
-        <item>EL butter</item></ing>
+        <item>EL Butter</item></ing>
       <ing>
         <amt>
           <qty>2.0</qty>
           <unit> </unit></amt>
-        <item>EL parmesan</item></ing></ingredients>
+        <item>EL Parmesan</item></ing></ingredients>
     <directions>
       <step>Zwiebeln anbraten, dann die Paprika (oder anderes Gemüse) dazu und weiter anbraten.</step> 
       <step>Mit den Kräutern würzen, den Reis dazu und auch diesen kurz mit anbraten.  Dann die Flüssigkeit dazu und auf kleiner Flamme langsam ca. 20 Minuten einkochen lassen.</step>

@@ -96,6 +96,7 @@ div#mainbody h4 {
     text-transform: lowercase;
     font-style: normal;
     font-size: large;
+    text-align: right;
 }
 
 div#mainbody p {

@@ -9,12 +9,12 @@
       <ing>
         <amt>
           <qty>500.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Hackfleisch</item></ing>
       <ing>
         <amt>
           <qty>300.0</qty>
-          <unit>milliliter</unit></amt>
+          <unit>Milliliter</unit></amt>
         <item>Milch (ungefähr)</item></ing>
       <ing>
         <amt>
@@ -35,7 +35,7 @@
         <amt>
           <qty>0.0</qty>
           <unit> </unit></amt>
-        <item>Thymian, Petersiele oder andere Kräuter</item></ing>
+        <item>Thymian, Petersilie oder andere Kräuter</item></ing>
       <ing>
         <amt>
           <qty>0.0</qty>
@@ -55,7 +55,7 @@
         <amt>
           <qty>2.0</qty>
           <unit>EL</unit></amt>
-        <item>butter</item></ing>
+        <item>Butter</item></ing>
       <ing>
         <amt>
           <qty>0.0</qty>
@@ -70,7 +70,7 @@
         <step>Reis kochen.</step>
         <step>Hackfleisch mit Eiern, Semmelbröseln, Pfeffer, Salz und Kräutern nach Wunsch vermengen.</step> 
         <step>Aus der Masse Klopse formen. Brühe aufsetzen, Loorbeerblätter dazu und die Klopse darin ca. 5-10 min kochen.</step>
-        <step>Für die Sauce: Butter schmelzen und eine entsprechende Menge Mehl darin anschwitzen. Mit dem Schneebesen die Mlich darunterrühren, andicken lassen und mit Brühe von den Klopsen auf die gewünschte Konsistenz bringen.</step>
+        <step>Für die Sauce: Butter schmelzen und eine entsprechende Menge Mehl darin anschwitzen. Mit dem Schneebesen die Milch darunterrühren, andicken lassen und mit Brühe von den Klopsen auf die gewünschte Konsistenz bringen.</step>
         <step>Zum Schluss die Kapern dazu geben.
 
 (4 Personen)</step></directions></recipe></recipeml>

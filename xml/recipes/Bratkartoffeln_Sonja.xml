@@ -9,7 +9,7 @@
       <ing>
         <amt>
           <qty>500.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Kartoffel, kalte Pellkartoffeln in Scheiben geschnitten</item></ing>
       <ing>
         <amt>
@@ -24,7 +24,7 @@
       <ing>
         <amt>
           <qty>400.0</qty>
-          <unit>gramm</unit></amt>
+          <unit>Gramm</unit></amt>
         <item>Fleisch, optional</item></ing>
       <ing>
         <amt>
@@ -44,7 +44,7 @@
     <directions>
       <step>Zwiebeln und Speck anbraten.</step> 
       <step>Dann die Kartoffeln dazu und anbraten bis die Kartoffeln leicht braun werden. Nach Bedarf mit Pfeffer uns Salz würzen.</step> 
-      <step>Das Ei dazu und weiterbraten bis das Ei gestockt ist.
+      <step>Das Ei dazu und weiter braten bis das Ei gestockt ist.
 
 Dazu kann man das Fleisch anbraten.
 
