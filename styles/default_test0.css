@@ -45,10 +45,10 @@ div#navmenu a {
 #mainbody {
     position: absolute;
     top: 70px;
-    left: 50ex;
+    left: 60ex;
     width: 53ex;
-    padding-left: 8ex;
-    padding-right: 8ex;
+    padding-left: 3ex;
+    padding-right: 3ex;
     padding-bottom: 3ex;
     padding-top: 5ex;
  
@@ -64,9 +64,9 @@ div#navmenu a {
 #mainbody-top {
     position: absolute;
     top: 0px;
-    left: 50ex;
+    left: 60ex;
     height: 70px;
-    width: 69ex;
+    width: 59ex;
     background-color: #FBF297;
     color: #FBF297;
     z-index: 1;
@@ -178,8 +178,8 @@ div#submenu a:hover {
 /* Items shown on the left side of the text */
 .sideitem {
     position: absolute;
-    width: 35ex;
-    left: -43ex;
+    width: 45ex;
+    left: -55ex;
     float: right;
     font-style: italic;
 }
