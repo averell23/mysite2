@@ -1,0 +1,187 @@
+/*
+ * Main CSS style definitions
+ */
+
+/* The main (top) navigation bar */
+#navmenu {
+  position: absolute;
+  height: 25px;
+  top: 15px;
+  right: 1ex;
+  text-align: right;
+  vertical-align: middle;
+  z-index: 2;
+}
+
+#navmenu-background {
+    position: absolute;
+    height: 70px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 0;
+
+    color: #F5F5DC;
+    background-color: #F5F5DC;
+}
+
+/* Clear any unwanted text decoration in picture links */
+div#navmenu a {
+    text-decoration: none;
+}
+
+/* 
+ * The main content body. KEEP IN SYNC WITH mainbody-top
+ */
+#mainbody {
+    position: absolute;
+    top: 70px;
+    left: 60ex;
+    width: 53ex;
+    padding-left: 3ex;
+    padding-right: 3ex;
+    padding-bottom: 3ex;
+    padding-top: 5ex;
+ 
+    text-align: justify;
+    color: #707070;
+    background-color: #FFF8DC;
+}
+
+/* 
+ * Top part of the main body (above the main body behind the navmenu)
+ * KEEP IN SYNC WITH mainbody
+ */
+#mainbody-top {
+    position: absolute;
+    top: 0px;
+    left: 60ex;
+    height: 70px;
+    width: 59ex;
+    background-color: #FBF297;
+    color: #FBF297;
+    z-index: 1;
+}
+
+div#mainbody h1 {
+    /* font-family: "Bauhaus Md BT",Bauhaus,"Futura Hv BT",Futura,Arial,sans-serif; */
+    font-family: sans-serif;
+    text-transform: lowercase;
+    font-style: normal;
+    font-weight: bold;
+    font-size: small;
+    text-align: left;
+}
+
+div#mainbody h2 {
+    font-family: sans-serif;
+    text-transform: lowercase;
+    font-style: normal;
+    font-weight: bold;
+    font-size: small;
+}
+
+div#mainbody p {
+    padding-left: 5ex;
+    text-align: justify;
+}
+
+/* Dummy spacer element for the navigation bar */
+#navbardummy {
+    margin-left: 30px;
+}
+
+/* Sidebar area (for sidebar pages) */
+#submenu {
+    position: absolute;
+    top: 45px;
+    left: 4ex;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #bebebe;
+    text-align: left;
+    z-index: 3;
+}
+
+div#submenu a {
+    color: #bebe00;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-right: 3px;
+}
+
+div#submenu a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+div#submenu a:visited {
+    color: #bebebe;
+    text-decoration: none;
+}
+
+div#submenu a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* Sidebar navigation item */
+.navitem {
+    font-family: Futura,Arial,sans-serif;
+    color: white;
+    font-size: large;
+    margin-bottom: 1ex;
+}
+	
+/* Article style entry */
+.entry-header {
+    font-size: large;
+    font-family: monospace;
+    text-transform: lowercase;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2ex;
+    margin-bottom: 2ex;
+}
+
+.entry {
+    padding-left: 5ex;
+    padding-right: 4ex;
+    text-align: justify;
+    margin-bottom: 1ex;
+}
+
+.entry-footer {
+    text-align: right;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+/* Items shown on the left side of the text */
+.sideitem {
+    position: absolute;
+    width: 45ex;
+    left: -55ex;
+    float: right;
+    font-style: italic;
+}
+
+/* Special formatting used for picture captions on sideitems */
+.side-caption {
+    padding: 3ex;
+}
+
+img {
+    border-style: none;
+    text-decoration: none;
+}
+
+/* Global page settings */
+body {
+    /* background-image: url(../pictures/background_inverted.png); */
+    background-repeat: repeat;
+    background-attachment: fixed;
+    /* background-color: #feead6; */
+    color: #707070;
+    background-color: #FFFFFF;
+}

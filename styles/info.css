@@ -1,0 +1,11 @@
+/* Additional styles for the info page */
+
+/* Format for the address/personal info block */
+#addressblock {
+    text-align: center;
+    padding-top: 2ex;
+    padding-bottom: 3ex;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: large;
+}

@@ -1,0 +1,34 @@
+<!-- Include: Begin java script for navigation pictures -->
+<script type="text/javascript">
+<!--
+    light1 = new Image();
+    light1.src = "pictures/me_grey.png";
+    black1 = new Image();
+    black1.src = "pictures/me_black.png";
+
+    light2 = new Image();
+    light2.src = "pictures/news_grey.png";
+    black2 = new Image();
+    black2.src = "pictures/news_black.png";
+
+    light3 = new Image();
+    light3.src = "pictures/links_grey.png";
+    black3 = new Image();
+    black3.src = "pictures/links_black.png";
+
+    light4 = new Image();
+    light4.src = "pictures/files_grey.png";
+    black4 = new Image();
+    black4.src = "pictures/files_black.png";
+      
+    light5 = new Image();
+    light5.src = "pictures/info_grey.png";
+    black5 = new Image();
+    black5.src = "pictures/info_black.png";
+      
+    function picChange(number, object) {
+     window.document.images[number].src = object.src;
+    }
+ -->
+ </script>
+<!-- Include: Navbar java script ends here -->

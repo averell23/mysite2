@@ -1,0 +1,20 @@
+/* Additional formatting for the "me" section */
+
+/* For an left-aligned paragraph */
+.leftalign {
+    font-family: monospace;
+    text-align: left;
+    margin-top: 5ex;
+}
+
+/* For an right-aligned paragraph */
+.rightalign {
+    font-family: monospace;
+    text-align: right;
+    margin-top: 5ex;
+}
+
+/* Red text */
+.red {
+    color: red;
+}

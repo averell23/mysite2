@@ -1,0 +1,20 @@
+<!-- Include: Main navigation bar area -->
+<div id="navmenu"> 	 
+    <a href="me.shtml?portrait" onMouseOver="picChange(0,black1)" onMouseOut="picChange(0,light1)">
+        <img style="width: 45px; height: 25px;" src="pictures/me_grey.png" alt="me"/>
+    </a>
+    <a href="#" onMouseOver="picChange(1,black2)" onMouseOut="picChange(1,light2)">
+        <img style="width: 70px; height: 25px;" src="pictures/news_grey.png" alt="news"/>
+    </a>
+    <a href="#" onMouseOver="picChange(2,black3)" onMouseOut="picChange(2,light3)">
+        <img style="width: 65px; height: 25px;" src="pictures/links_grey.png" alt="links"/>
+    </a>
+    <a href="files.shtml?files" onMouseOver="picChange(3,black4)" onMouseOut="picChange(3,light4)">
+        <img style="width: 60px; height: 25px;" src="pictures/files_grey.png" alt="files"/>
+    </a>
+    <a href="info.shtml" onMouseOver="picChange(4,black5)" onMouseOut="picChange(4,light5)">
+        <img style="width: 25px; height: 25px;" src="pictures/info_grey.png" alt="info"/>
+    </a>
+    <span id="navbardummy"></span>
+</div>
+<!-- Include: Navigation bar ends here -->

@@ -1,0 +1,131 @@
+<div id="mainbody">
+    <h1>Another Information Superhighway Entry Ramp</h1>
+    <div class="sideitem">
+        <img alt="road in fog" src="pictures/street_fog.png"
+            style="width: 100%;" />
+        <div class="side-caption">
+        Mahatma Ghandi often changed his mind publicly.<br/> 
+        An aide once asked him 
+        how he could so freely contradict this week what he had said just last 
+        week.<br/> 
+        The great man replied it was because this week he knew better.
+        </div>
+    </div>
+    <p>
+    Contained herein are the works, thoughts, pictures, ideas and other mindful 
+    concotions of <a href="me.shtml">me</a>. This is my window to the world, the
+    mirror of my thoughts, opinions and prejudices.
+    In other words, these are the personal pages of
+    </p>
+    <div id="addressblock">
+        Daniel Hahn<br/>
+        Karlsruhe<br/>
+        <a href="mailto:spamcatcher@gewinnt-immer.de">spamcatcher@gewinnt-immer.de</a>
+    </div>
+    <p>
+    If you want to contact me, it is best if you actually use the address
+    <span class="code">daniel{at}gewinnt-immer.de</span>. Mails sent
+    by clicking the link will be rejected with an automated
+    reply containing my real email address.
+    </p>
+    <h1>Deutsch oder nicht deutsch - language issues</h1>
+    <p>
+    <b>Deutsch:</b> Wie gehabt sind die meisten meiner Seiten auf englischer 
+    Sprache, damit mich
+    auch meine internationale Freunde verstehen. Andere Seiten sind auf deutsch,
+    da sie für Nichtdeutsche nicht wirklich interessant sind. Leider habe ich
+    auch nicht wirklich die Zeit, alle Seiten zu &uuml;bersetzen.
+    </p>
+    <p>
+    <b>English:</b> Most of the pages here are in English, but there are also
+    quite a few in German language - usually those pages are only useful to
+    germans anyway, but things like diary entries may be german only, too.
+    I'm afraid that I don't have the time to translate 
+    everything on these pages into both languages.
+    </p>
+    <h1>Problems? Probleme?</h1>
+    <p>
+    A messed page layout may be caused by lacking CSS (Cascading Style Sheet)
+    support in your browser. The 4- and early versions of the popular
+    browsers (Netscape and Internet Explorer) support CSS only partly, if at
+    all. The recent versions of Netscape, <a href="http://www.mozilla.org/">
+    Mozilla</a> and <a href="http://www.microsoft.com/ie/">Internet Explorer</a>
+    have sufficient CSS support (I recommend Mozilla). If you have an older 
+    PC have a look at <a href="http://www.opera.com/">Opera</a>, a lightweight
+    browser with very good standards support.
+    </p>
+    <p>
+    You may also notice that some images are slightly odd in the Internet
+    Explorer (intransparent background). This is a known problem of the IE,
+    which does not handle transparent PNG images correctly. This may be fixed
+    in the next Windows/IE update (in 2004). If you want a more 
+    standards-compliant browser, use Mozilla.
+    </p>
+    <h2>Technicalese</h2>
+    <p>
+    These pages aren't optimized for anything. To you, it should be pure
+    HTML 4.01 and CSS 2.0. This still means you'll need a current (i.e.
+    CSS-compliant) browser. 
+    like <a href="http://www.mozilla.org/">Mozilla</a> or <a
+    href="http://www.opera.com">Opera</a>. The Internet Explorer will also do,
+    although it still has difficulties coping with the standards (and the Intel
+    x86 version still doesn't handle PNG transparency properly - the Mac version
+    is reported to do fine). If you have trouble viewing
+    the pages, try one of the browsers mentioned above.
+    </p>
+    <p>
+    If you use an older or otherwise non-compliant browser (like the Netscape
+    Navigator 4.x) you should still be able to view these pages, but you'll
+    loose the original layout. Text-only browsers should do just fine.
+    </p>
+    <div style="text-align: right; margin-right: 5%">
+        <a href="http://jigsaw.w3.org/css-validator/">
+        <img style="width: 88px; height: 31px; border-style: none"
+            src="pictures/valid-css.png" />
+        </a>
+        <a href="http://validator.w3.org/check/referer">
+        <img style="width: 88px; height: 31px; border-style: none" 
+            src="pictures/valid-html401.png" />
+        </a>
+    </div>
+    <h2>Legalese</h2>
+    <p>
+    Unless stated otherwise, all text, pictures and content contained on
+    this site are the copyrighted work of Daniel Hahn. Works of other owner 
+    authors are used
+    with the explicit permission of the copyright holders. All works are 
+    protected by international copyright laws.
+    </p>
+    <p>
+    Some documents on these pages have been put under "open content" licenses. 
+    You may use those documents for your own purposes, as long as you comply
+    with the accompanying license. (Merely looking at the documents doesn't
+    require you to agree to a license.)
+    </p>
+    <p>
+    All other content may <b>not</b> be copied, distributed, modified or used in
+    any other way than the "fair use" permitted by your local law. Copying 
+    content for your own private projects without permission
+    is <b>not</b> fair use.
+    </p>
+    <h2>Rechtliches</h2>
+    <p>
+    Falls nicht anders angegeben sind alle Inhalte auf diesen Seiten 
+    urheberrechtlich gesch&uuml;tzte Werke von Daniel Hahn. Werke anderer 
+    Autor wurden nur mit deren Genehmigung verwendet. Alle Werke sind durch
+    das internationale Urhberrechte gesch&uuml;tzt.
+    </p>
+    <p>
+    Einige Dokumente auf diesen Seiten sind unter sogenannte "open
+    content"-Lizenzen gestellt. Diese Inhalte d&uuml;rfen f&uuml;r eigene 
+    Zwecke verwendet werden solange die Bedingungen der jeweiligen Lizenz 
+    beachtet werden. Für das reine Betrachten der Dokumente muss keiner Lizenz
+    zugestimmt werden.
+    </p>
+    <p>
+    Alle anderen Inhalte d&uuml;rfen weder kopiert, noch vervielf&auml;ltigt,
+    bearbeitet oder sonstwie weiterverwendet werden, ausser in den gesetzlich
+    vorgesehenen Ausnahmef&auml;llen. Die ungenehmigte Verwendung von Inhalten 
+    f&uuml;r eigene (auch private) Projekte ist nicht erlaubt.
+    </p>
+</div>
