@@ -1,4 +1,5 @@
 <div id="mainbody">
+<h4></h4>
 <h4>friends and more</h4>
 <div class="entry-header">moppe.net</div>
 <div class="entry">
@@ -41,6 +42,67 @@
                 &gt;&gt; Show me
             </a>
 </div>
-<h4>obscure</h4>
+<h4>online services</h4>
+<div class="entry-header">LEO German-English dictionary</div>
+<div class="entry">
+            A very good, large German-English/English-German dictionary. They
+            also have a Mozilla sidebar and a "bookmarklet" that allow for quick
+            access.
+            </div>
+<div class="entry-footer">
+<a href="http://dict.leo.org/">
+                &gt;&gt; Show me
+            </a>
+</div>
+<div class="entry-header">Wikipedia, the free online encyclopedia</div>
+<div class="entry">
+            An encyclopedia based on a WikiWiki software. Every user can 
+            contribute to the encyclopedia, and all content is available under
+            the GNU Free Documentation License. Some areas still need a little
+            work, but it is already quite vast and often suprisingly in-depth.
+            </div>
+<div class="entry-footer">
+<a href="http://www.wikipedia.org/">
+                &gt;&gt; Show me
+            </a>
+</div>
 <h4>software</h4>
+<div class="entry-header">Mozilla</div>
+<div class="entry">
+            Chances are you already know the mozilla web suite. It is 
+            essentially the same software as Netscape, contains an excellent
+            web browser and email client, is free software and under constant
+            development. I recommend it to view this page. 
+            </div>
+<div class="entry-footer">
+<a href="http://www.mozilla.org">
+                &gt;&gt; Show me
+            </a>
+</div>
+<div class="entry-header">OpenOffice.org</div>
+<div class="entry">
+            This free software has essentially the same features as the 
+            Microsoft Office suite, without the price tag. It still lacks
+            some of the polishing that the Microsoft products have, but it's
+            very usable and is able to read from and write to 
+            Word/Power Point/Excel/... files. The comercial retail version, 
+            StarOffice, includes better spell checking and more clip art.
+            </div>
+<div class="entry-footer">
+<a href="http://www.openoffice.org">
+                &gt;&gt; Show me
+            </a>
+</div>
+<div class="entry-header">Cygwin</div>
+<div class="entry">
+            This is for all who are missing their *nix tools when working with
+            the Windows operating system. This includes almost all common
+            unix tools, from the bash shell and the TeX system up to a fully
+            woking implementation of XFree86.
+            </div>
+<div class="entry-footer">
+<a href="http://www.cygwin.com/">
+                &gt;&gt; Show me
+            </a>
+</div>
 </div>

@@ -43,11 +43,55 @@
             German language).
             </description>
         </link>
-        
-        
     </group>
-    <group name="obscure">
+    <group name="online services">
+        <link target="http://dict.leo.org/">
+            <name>LEO German-English dictionary</name>
+            <description>
+            A very good, large German-English/English-German dictionary. They
+            also have a Mozilla sidebar and a "bookmarklet" that allow for quick
+            access.
+            </description>
+        </link>
+        <link target="http://www.wikipedia.org/">
+            <name>Wikipedia, the free online encyclopedia</name>
+            <description>
+            An encyclopedia based on a WikiWiki software. Every user can 
+            contribute to the encyclopedia, and all content is available under
+            the GNU Free Documentation License. Some areas still need a little
+            work, but it is already quite vast and often suprisingly in-depth.
+            </description>
+        </link>
     </group>
     <group name="software">
+        <link target="http://www.mozilla.org">
+            <name>Mozilla</name>
+            <description>
+            Chances are you already know the mozilla web suite. It is 
+            essentially the same software as Netscape, contains an excellent
+            web browser and email client, is free software and under constant
+            development. I recommend it to view this page. 
+            </description> 
+        </link>
+        <link target="http://www.openoffice.org">
+            <name>OpenOffice.org</name>
+            <description>
+            This free software has essentially the same features as the 
+            Microsoft Office suite, without the price tag. It still lacks
+            some of the polishing that the Microsoft products have, but it's
+            very usable and is able to read from and write to 
+            Word/Power Point/Excel/... files. The comercial retail version, 
+            StarOffice, includes better spell checking and more clip art.
+            </description>
+        </link>
+        <link target="http://www.cygwin.com/">
+            <name>Cygwin</name>
+            <description>
+            This is for all who are missing their *nix tools when working with
+            the Windows operating system. This includes almost all common
+            unix tools, from the bash shell and the TeX system up to a fully
+            woking implementation of XFree86.
+            </description>
+        </link>
     </group>
 </linklist>

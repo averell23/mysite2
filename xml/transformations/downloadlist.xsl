@@ -13,6 +13,8 @@
         
     <xsl:template match="/">
         <div id="mainbody">
+            <h4><xsl:value-of select="downloadlist/title"/></h4>
+            <xsl:apply-templates select="downloadlist/introduction" />
             <xsl:apply-templates select="downloadlist/item" />
         </div>
     </xsl:template>
@@ -61,6 +63,16 @@
         <div class="entry-part">
         <xsl:apply-templates />
         </div>
+    </xsl:template>
+    
+    <!-- Matches the a tags -->
+    <xsl:template match="a">
+        <xsl:element name="a">
+            <xsl:attribute name="href">
+                <xsl:value-of select="@href" />
+            </xsl:attribute>
+            <xsl:apply-templates />
+        </xsl:element>
     </xsl:template>
     
     <!-- Matches text fields (for the inline elements -->
