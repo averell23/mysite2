@@ -95,6 +95,28 @@ div#mainbody p {
     text-align: justify;
 }
 
+div#mainbody a {
+    color: #6495ED;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+}
+
+div#mainbody a:active {
+    color: #483D8B;
+    text-decoration: none;
+}
+
+div#mainbody a:visited {
+    color: #E9967A;
+    text-decoration: none;
+}
+
+div#mainbody a:hover {
+    color: #483D8B;
+    text-decoration: none;
+}
+
 /* End of mainbody styles */
 
 /* Submenu area (within the navigation bar */
@@ -144,7 +166,7 @@ div#submenu a:hover {
     /* positioning */
     position: relative;
     left: -1ex;
-    width: 80%;
+    width: 100%;
     padding-left: 1ex;
     padding-bottom: 0.3ex;
     padding-top: 0.3ex;
@@ -152,6 +174,28 @@ div#submenu a:hover {
     margin-bottom: 2ex;
     
     background-color: #FBF297;
+}
+
+div#entry a {
+    color: #bebe00;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-right: 3px;
+}
+
+div#submenu a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+div#submenu a:visited {
+    color: #bebebe;
+    text-decoration: none;
+}
+
+div#submenu a:hover {
+    color: #000000;
+    text-decoration: none;
 }
 
 .entry {
