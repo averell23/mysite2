@@ -1,34 +1,46 @@
 <div id="mainbody">
 <h1>friends and more</h1>
-<div class="entry-header">
-<a href="http://www.moppe.net/">moppe.net</a>
-</div>
+<div class="entry-header">moppe.net</div>
 <div class="entry">
             This is where I live. (The page may be somewhat out of date)
             </div>
-<div class="entry-header">
-<a href="http://community.newgods.org/">newgods.org</a>
+<div class="entry-footer">
+<a href="http://www.moppe.net/">
+                &gt;&gt; Show me
+            </a>
 </div>
+<div class="entry-header">newgods.org</div>
 <div class="entry">
             This is a community page for my friends and me. Includes 
             news, events and a gallery. (Content mostly in German language).
             </div>
-<div class="entry-header">
-<a href="me.shtml?friends">Links to my friends</a>
+<div class="entry-footer">
+<a href="http://community.newgods.org/">
+                &gt;&gt; Show me
+            </a>
 </div>
+<div class="entry-header">Links to my friends</div>
 <div class="entry">
             A list of links to my friends that can be found in the "me" section
             of this page.
             </div>
-<h1>culture</h1>
-<div class="entry-header">
-<a href="http://www.seniorentanztee.de/">Seniorentanztee</a>
+<div class="entry-footer">
+<a href="me.shtml?friends">
+                &gt;&gt; Show me
+            </a>
 </div>
+<h1>culture</h1>
+<div class="entry-header">Seniorentanztee</div>
 <div class="entry">
             This is about a house/tech house event that my friend Patrick and
             I run semi-regularly at a student club in Karlsruhe. (Content in
             German language).
             </div>
+<div class="entry-footer">
+<a href="http://www.seniorentanztee.de/">
+                &gt;&gt; Show me
+            </a>
+</div>
 <h1>obscure</h1>
 <h1>software</h1>
 </div>

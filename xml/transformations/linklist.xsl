@@ -26,15 +26,18 @@
     <!-- Matches the individual links -->
     <xsl:template match="link">
         <div class="entry-header">
+            <xsl:value-of select="name" />
+        </div>
+        <div class="entry">
+            <xsl:apply-templates select="description"/>
+        </div>
+        <div class="entry-footer">
             <xsl:element name="a">
                 <xsl:attribute name="href">
                     <xsl:value-of select="@target"/>
                 </xsl:attribute>
-                <xsl:value-of select="name" />
+                >> Show me
             </xsl:element>
-        </div>
-        <div class="entry">
-            <xsl:apply-templates select="description"/>
         </div>
      </xsl:template>
      
