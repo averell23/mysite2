@@ -1,12 +1,12 @@
 <div id="mainbody">
-<h1>friends and more</h1>
+<h4>friends and more</h4>
 <div class="entry-header">moppe.net</div>
 <div class="entry">
             This is where I live. (The page may be somewhat out of date)
             </div>
 <div class="entry-footer">
 <a href="http://www.moppe.net/">
-                [&gt;&gt; Show me]
+                &gt;&gt; Show me
             </a>
 </div>
 <div class="entry-header">newgods.org</div>
@@ -29,7 +29,7 @@
                 &gt;&gt; Show me
             </a>
 </div>
-<h1>culture</h1>
+<h4>culture</h4>
 <div class="entry-header">Seniorentanztee</div>
 <div class="entry">
             This is about a house/tech house event that my friend Patrick and
@@ -41,6 +41,6 @@
                 &gt;&gt; Show me
             </a>
 </div>
-<h1>obscure</h1>
-<h1>software</h1>
+<h4>obscure</h4>
+<h4>software</h4>
 </div>
