@@ -3,7 +3,7 @@
     <a href="me.shtml?portrait" onMouseOver="picChange(0,black1)" onMouseOut="picChange(0,light1)">
         <img style="width: 45px; height: 25px;" src="pictures/me_grey.png" alt="me"/>
     </a>
-    <a href="#" onMouseOver="picChange(1,black2)" onMouseOut="picChange(1,light2)">
+    <a href="news.shtml" onMouseOver="picChange(1,black2)" onMouseOut="picChange(1,light2)">
         <img style="width: 70px; height: 25px;" src="pictures/news_grey.png" alt="news"/>
     </a>
     <a href="text.shtml?text" onMouseOver="picChange(2,black3)" onMouseOut="picChange(2,light3)">

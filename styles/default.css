@@ -142,7 +142,7 @@ div#mainbody a:hover {
 
 div#submenu a {
     color: #bebe00;
-    text-decoration: underline;
+    text-decoration: none;
     font-weight: bold;
     margin-right: 3px;
 }
@@ -187,7 +187,7 @@ div#submenu a:hover {
 
 div#entry a {
     color: #bebe00;
-    text-decoration: underline;
+    text-decoration: none;
     font-weight: bold;
     margin-right: 3px;
 }
