@@ -1,0 +1,13 @@
+<div id="mainbody">
+    <h1>The written word</h1>
+    </p>
+    Here you will find snippets of text that I wrote, informative or otherwise.
+    However, only online-readable texts are in this section. Downloadable
+    documents, publications for example, can be found in the <a
+    href="files.shtml?files">files section.
+    </p>
+    <p>
+    (Hier finden sich nur online-Texte. Dokumente zum Herunterladen befinden
+    sich unter <a href="files.shtml?files">files</a>).
+    </p>
+</div>

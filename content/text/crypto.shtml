@@ -1,0 +1,68 @@
+<div id="mainbody">
+    <h1>Kryptographie</h2>
+    </p>
+    Kryptographie ist die Wissenschaft vom "geheimen Schreiben",
+    besch&auml;ftigt sich mit dem Verschl&uuml;sseln von Daten. Diese Seite
+    soll nur einen kurzen &Uuml;berblick &uuml;ber die Verschl&uuml;sselung
+    von email geben, weitergehende Anleitungen finden sich im Netz. (z.B.
+    beim <a
+href="http://www.datenschutzzentrum.de/material/themen/safesurf/pgp/wozu.htm">Datenschutzzentrum
+    Schleswig-Holstein</a>
+    </p>
+    <h2>Wie funktioniert das?</h2>
+    <p>
+    Stellen wir uns zwei Personen vor, Andrea und Bernd. Andrea m&ouml;chte
+    Bernd gernen einen Brief schreiben, aber die eifers&uuml;chtige Eva
+    soll davon nichts mitbekommen. Andrea k&ouml;nnte den Brief in ein
+    verschliessbares K&auml;stchen legen, aber wie bekommt Bernd den
+    Schl&uuml;ssel? Eva liest ja seine Post...
+    </p>
+    <p>
+    Also baut Bernd ein Schloss mit zwei Schlüsseln. Mit dem einen kann man es
+    abschliessen, mit dem anderen aufschliessen. Er schickt Andrea den
+    Schl&uuml;ssel mit dem sie das Schloss abschliessen kann. Es macht auch
+    nichts, wenn Eva ihn in die H&auml;nde bekommt, denn <i>aufschliessen</i>
+    kann man ja nur mit dem Schl&uuml;sseln den Bernd hat (und den er
+    nat&uuml;rlich gut versteckt).
+    </p>
+    <p>
+    Die Verschl&uuml;sselung von Email oder anderen Daten funktioniert im
+    Prinzip genau so, ausser das es nat&uuml;rlich keine kleinen K&auml;stchen
+    gibt und die "Schl&uuml;ssel" in Wirklichkeit lange Zahlen sind. Um eine
+    Mail zu verschl&uuml;sseln ben&ouml;tigt man den <i>&ouml;ffentlichen</i>
+    Schl&uuml;ssel (public key) des Empf&auml;ngers. Der Empf&auml;nger ist
+    der einzige, der den zu dem &ouml;ffentlichen Schl&uuml;ssel passenden 
+    <i>geheimen Schl&uuml;ssel</i> (private key) hat mit dem man die Mail lesen
+    kann. Es gibt zu jedem &ouml;ffentlichen Schl&uuml; nur genau einen
+    geheimen, und umgekehrt.
+    </p>
+    <h2>Wie benutzt man das?</i>
+    Zum Verschl&uuml;sseln von Mail gibt es zwei verbreitet Verfahren:
+    <ul>
+        <li><b>S/MIME</b> ist in vielen Email-Programmen wie z.B. Outlook
+        Express oder Netscape Mail schon eingebaut. Man ben&ouml;tigt allerdings
+        zur Benutzung ein <i>Zertifikat</i>, das ist eine elektronische
+        "Bescheinigung" das ein Schl&uuml;ssel wirklich der Person geh&ouml;rt,
+        dessen Namen er tr&auml;t. Ein solches Zertifikat erh&auml;lt man z.B.
+        beim <a href="http://www.trustcenter.de/">TrustCenter Hamburg</a>
+        </li>
+        <li>
+        Ein weiteres sehr beliebtes Programm ist <a
+        href="http://www.pgp.com/">PGP</a> (Pretty Good Privacy). Es gibt auch 
+        eine kostenlos verf&uuml;gbare Version, <a
+        href="http://www.gnupg.org">GPG</a>. Auch diese Art der
+        Verschl&uuml;sselung wird von vielen Emailprogrammen unterst&uuml;zt.
+        </li>
+    </ul>
+    Zu den Verschl&uuml;sselungsprogrammen gibt es ausf&uuml;hrliche
+    Anleitungen und sie werden immer Benutzerfreundlicher. 
+    <h2>Warum Verschl&uuml;sselung?</h2>
+    Es sollte sich jeder dar&uuml;ber im klaren sein, dass Emails f&uuml;r 
+    viele Leute lesbar sind - nicht nur f&uuml;r den eingentlichen
+    Empf&auml;nger. Ein Mail gleicht in dieser Hinsicht einer Postkarte. 
+    <p>
+    Auch wenn das oft nicht st&ouml;rt - wer m&ouml;chte schon dass seine 
+    Liebesbriefe in falsche H&auml;nde geraten oder die Kreditkartennummer in
+    die H&auml;nde von Betr&uuml;gern f&auml;llt?
+    </p>
+</div>

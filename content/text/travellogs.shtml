@@ -1,0 +1,23 @@
+<div id="mainbody">
+<h1>Travel Logs</h1>
+<div class="entry-header">
+<a href="text.shtml?usa2000">West of the USA (2000)</a>
+</div>
+<div class="entry">
+                A 4-week trip to New York and some of the western states of the USA,
+                with Micha, Psycho and Uli.
+            </div>
+<div class="entry-header">
+<a href="text.shtml?taiwan2001">Taiwan (2001)</a>
+</div>
+<div class="entry">
+                A 2-week visit to my friend Anne, who was a lecturer in Taiwan
+                at that time.
+            </div>
+<div class="entry-header">
+<a href="text.shtml?scotland2002">Scotland (2002)</a>
+</div>
+<div class="entry">
+                A 10-day trip through Scotland with David and Psycho.
+            </div>
+</div>

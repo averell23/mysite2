@@ -1,0 +1,32 @@
+<div id="mainbody">
+<h1>Informative Text</h1>
+<div class="entry-header">
+<a href="text.shtml?copyright">Copyright</a>
+</div>
+<div class="entry">
+                This is some general information about how copyrights work
+                and what you may and may not do with copyrighted works.
+            </div>
+<div class="entry-header">
+<a href="text.shtml?urheber">Urheberrecht</a>
+</div>
+<div class="entry">
+                Einige generelle Anmerkungen zum Urheberrecht. Erkl&auml;rt was man
+                mit urheverrechtlich gesch&uuml;tzten Werken tun und nicht tun darf.
+            </div>
+<div class="entry-header">
+<a href="text.shtml?crypto">Kryptographie</a>
+</div>
+<div class="entry">
+                Eine kurze Einf&uuml;hrung in die Anwendung der 
+                Verschl&uuml;sselungstechnik.
+            </div>
+<div class="entry-header">
+<a href="files.shtml?files">Files/Datein</a>
+</div>
+<div class="entry">
+                There are also downloadable text documents in the "files"
+                section. Es gibt auch noch Textdokumente zum Herunterladen in 
+                der "Files"-Rubrik.
+            </div>
+</div>

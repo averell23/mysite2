@@ -1,0 +1,6 @@
+<div id="submenu">
+    <a href="text.shtml?text">[main]</a>
+    <a href="text.shtml?info">[info]</a>
+    <a href="text.shtml?travellogs">[travel logs]</a>
+    <a href="text.shtml?recipes">[recipes]</a>
+</div>
