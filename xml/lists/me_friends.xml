@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : me_friends.xml
+    Created on : 2. November 2003, 13:56
+    Author     : daniel
+    Description:
+        List of links to my friends
+-->
+<linklist>
+    <group name="friends and more">
+        
+        <link target="me.shtml?friends">
+            <name>Everyone here</name>
+            <description>
+            Uli, Betti, Gerhard, David, Sonja, Rolland, Micha, Marcus und Andy, 
+            Psycho, Markus K., Elin, Ludwing, Stefan V., Stefan M., Natascha, 
+            Sabine, Willi, Agi, Jutta, Lisa, Steffen
+            </description>
+        </link>
+    
+        <link target="me.shtml?friends">
+            <name>Everyone there</name>
+            <description>
+            Matti, Britta, Christian, Edith, Anita, Alex, Ina, Günther, 
+            Anne, Jan, Dorle, Herbert, Thea, Gerda, Christian H., Olaf
+            </description>
+        </link>
+        
+        <link target="http://www.delusions.de/">
+            <name>Sonja</name>
+            <description>
+            Sonja's delusional web site.
+            </description>
+        </link>
+        
+        <link target="http://www.roessi.de">
+            <name>Patrick</name>
+            <description>
+            Roessi's home.
+            </description>
+        </link>
+        
+        <link target="http://www.stud.uni-karlsruhe.de/~ue2m/">
+            <name>Ulrich</name>
+            <description>
+            Uli's site in black and orange (may move/disappear soon).
+            </description>
+        </link>
+        
+        <link target="http://www.newgods.org/~loonix/">
+            <name>Gerhard</name>
+            <description>
+            Gerhards page.
+            </description>
+        </link>
+        
+        <link target="http://www.spychalski.de">
+            <name>Psycho</name>
+            <description>
+            Psycho is spychalski.de
+            </description>
+        </link>
+        
+        <link target="http://www.stud.uni-karlsruhe.de/~uno8/">
+            <name>Jan</name>
+            <description>
+            Jan's Masterpiece (will sone be moved or gone).
+            </description>
+        </link>
+        
+    </group>
+        
+</linklist>
+
