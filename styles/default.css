@@ -2,7 +2,8 @@
  * Main CSS style definitions
  */
 
-/* The main (top) navigation bar */
+
+/* #navmenu: The main (top) navigation bar */
 #navmenu {
   position: absolute;
   height: 25px;
@@ -29,6 +30,14 @@
 div#navmenu a {
     text-decoration: none;
 }
+
+
+/* Dummy spacer element for the navigation bar */
+#navbardummy {
+    margin-left: 30px;
+}
+
+/* End of navmenu styles */
 
 /* 
  * The main content body. KEEP IN SYNC WITH mainbody-top
@@ -86,12 +95,9 @@ div#mainbody p {
     text-align: justify;
 }
 
-/* Dummy spacer element for the navigation bar */
-#navbardummy {
-    margin-left: 30px;
-}
+/* End of mainbody styles */
 
-/* Sidebar area (for sidebar pages) */
+/* Submenu area (within the navigation bar */
 #submenu {
     position: absolute;
     top: 45px;
@@ -125,23 +131,27 @@ div#submenu a:hover {
     text-decoration: none;
 }
 
-/* Sidebar navigation item */
-.navitem {
-    font-family: Futura,Arial,sans-serif;
-    color: white;
-    font-size: large;
-    margin-bottom: 1ex;
-}
+/* End of submenu styles */
+
 	
-/* Article style entry */
+/* entry styles for article-like entries */
 .entry-header {
-    font-size: large;
-    font-family: monospace;
+    font-size: normal;
+    font-family: sans-serif;
     text-transform: lowercase;
     font-weight: bold;
     text-align: left;
+    /* positioning */
+    position: relative;
+    left: -1ex;
+    width: 80%;
+    padding-left: 1ex;
+    padding-bottom: 0.3ex;
+    padding-top: 0.3ex;
     margin-top: 2ex;
     margin-bottom: 2ex;
+    
+    background-color: #FBF297;
 }
 
 .entry {
@@ -157,9 +167,13 @@ div#submenu a:hover {
 
 .entry-footer {
     text-align: right;
-    font-family: monospace;
+    font-family: sans-serif;
+    font-size: small;
     font-weight: bold;
+    padding-right: 2ex;
 }
+
+/* end of entry styles */
 
 /* Items shown on the left side of the text */
 .sideitem {
@@ -175,6 +189,7 @@ div#submenu a:hover {
     padding: 3ex;
 }
 
+/* Show images without any borders */
 img {
     border-style: none;
     text-decoration: none;
