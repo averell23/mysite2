@@ -61,7 +61,7 @@
     <title>Feng Shui equipment list</title>
     <description>
     A few nifty new items (guns and cars) for use with the "Feng Shui" 
-    role playing game.
+    roleplaying game.
     </description>
     <link target="downloads/fengshui_gear.pdf">PDF</link>
     <link target="downloads/fengshui_gear.tex">LaTex source</link>
@@ -70,7 +70,7 @@
 <item>
     <title>A history of the Dark Ages</title>
     <description>
-    A short time line of events in medieval Europe. I made this for a "Vampire"
+    A short timeline of events in medieval Europe. I made this for a "Vampire"
     campaign, but it's all "real" stuff and may be used for any game. No
     warranties for historical correctness, though...
     </description>
@@ -79,14 +79,14 @@
 </item>
 
 <item>
-    <title>gameXF - a role playing XML format</title>
+    <title>gameXF - a roleplaying XML format</title>
     <description>
-    This was an attempt to create a generic XML format to store role playing 
+    This was an attempt to create a generic XML format to store roleplaying 
     information. The package contains an XML schema, XSL Transformation 
-    style sheets and sample data (character descriptions from a "Feng Shui"
+    stylesheets and sample data (character descriptions from a "Feng Shui"
     and an "Unknown Armies" campaign). I doubt that this project will go
     any further, but you may use the ideas if you like.<br/>
-    You'll need an XSLT engine to do the style sheet transformations.
+    You'll need an XSLT engine to do the stylesheet transformations.
     </description>
     <link target="downloads/gameXF.zip">.zip</link>
 </item>
