@@ -1,3 +1,9 @@
 <div id="mainbody">
     Diary of my scotland tour in February 2002.
+    <div class="entry">
+    Dummy diary entry sciuri ite domum, etiam lepusculi, sciuri ite domum.
+    <p>
+    Dummy paragraph ite domum etiam lepusculi ite domum.
+    </p>
+    </div>
 </div>
