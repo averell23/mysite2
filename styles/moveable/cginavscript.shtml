@@ -1,0 +1,38 @@
+<!-- Include: Begin java script for navigation http://www.limitedcreativity.org/pictures (from MT) -->
+<script type="text/javascript">
+<!--
+    light1 = new Image();
+    light1.src = "http://www.limitedcreativity.org/pictures/me_grey.png";
+    black1 = new Image();
+    black1.src = "http://www.limitedcreativity.org/pictures/me_black.png";
+
+    light2 = new Image();
+    light2.src = "http://www.limitedcreativity.org/pictures/news_grey.png";
+    black2 = new Image();
+    black2.src = "http://www.limitedcreativity.org/pictures/news_black.png";
+
+    light3 = new Image();
+    light3.src = "http://www.limitedcreativity.org/pictures/text_grey.png";
+    black3 = new Image();
+    black3.src = "http://www.limitedcreativity.org/pictures/text_black.png";
+
+    light4 = new Image();
+    light4.src = "http://www.limitedcreativity.org/pictures/links_grey.png";
+    black4 = new Image();
+    black4.src = "http://www.limitedcreativity.org/pictures/links_black.png";
+
+    light5 = new Image();
+    light5.src = "http://www.limitedcreativity.org/pictures/files_grey.png";
+    black5 = new Image();
+    black5.src = "http://www.limitedcreativity.org/pictures/files_black.png";
+
+    light6 = new Image();
+    light6.src = "http://www.limitedcreativity.org/pictures/info_grey.png";
+    black6 = new Image();
+    black6.src = "http://www.limitedcreativity.org/pictures/info_black.png";
+
+    function picChange(number, object) {
+     window.document.images[number].src = object.src;
+    }
+ -->
+ </script>
