@@ -145,9 +145,17 @@ div#submenu a:hover {
 }
 
 .entry {
+    padding-left: 5ex;
     padding-right: 4ex;
     text-align: justify;
     margin-bottom: 1ex;
+}
+
+.entry-part {
+    padding-left: 5ex;
+    padding-right: 4ex;
+    text-align: justify;
+    margin-top: 1ex;
 }
 
 .entry-footer {
